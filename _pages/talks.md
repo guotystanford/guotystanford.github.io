@@ -17,7 +17,7 @@ redirect_from:
 
 # Presentations on Postdoc Research  
 ### 2023
-2/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
+02/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
 <i>AE-Flow: A workflow for analyzing acoustic emission during laboratory rock fracturing tests</i>   
 <i>Experimental study on the effects of CO<sub>2</sub> injection on the mechanical behavior of Tuscaloosa sandstone</i>  
 
@@ -41,7 +41,7 @@ redirect_from:
 
 
 ### 2020
-12/1, **China University of Mining and Technology**, Xuzhou, PRC  
+12/01, **China University of Mining and Technology**, Xuzhou, PRC  
 
 10/30, **Southwest Petroleum University**, Changdu, PRC  
 
