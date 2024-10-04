@@ -30,7 +30,7 @@ redirect_from:
 <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>
 
 
-## Presentations on Ph.D. Research
+## Presentations on Doctoral Research
 
 ### 2021
 12/26, **Sun Yat-sen University**, (Online)  
