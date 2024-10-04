@@ -33,7 +33,7 @@ redirect_from:
 ## Presentations on Ph.D. Research
 
 ### 2021
-12/26, **Sun Yat-sen University**, (Online)  
+12/26, **Sun Yat-sen University** (Online)  
 
 11/16, **The 13th Asian Regional Conference (ARC13) of International Association for Engineering Geology and the Environment (IAEG)**, (Oneline Theme Lecture)
 
