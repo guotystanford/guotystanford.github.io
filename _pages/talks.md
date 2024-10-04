@@ -26,7 +26,7 @@ redirect_from:
 
 
 ### 2021
-08/12, **University of Toronto**,ARMA student chapter lecture series (Online)  
+08/12, **American Rock Mechanics Association (ARMA) University of Toronto student chapter lecture series** (Online)  
 <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>
 
 
