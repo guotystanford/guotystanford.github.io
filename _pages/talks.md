@@ -22,7 +22,7 @@ redirect_from:
 * <i>Experimental study on the effects of CO<sub>2</sub> injection on the mechanical behavior of Tuscaloosa sandstone</i>  
 
 12/13,	**AGU Fall Meeting 2023**, San Francisco, USA  
-<i>Training a Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions</i>  
+*<i>Training a Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions</i>  
 
 
 ### 2021
