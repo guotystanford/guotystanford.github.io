@@ -43,7 +43,7 @@ redirect_from:
 ### 2020
 12/01, **China University of Mining and Technology**, Xuzhou, PRC  
 
-10/30, **Southwest Petroleum University**, Changdu, PRC  
+10/30, [**Southwest Petroleum University**](https://www.swpu.edu.cn/kyc/info/1028/12928.htm), Changdu, PRC  
 
 10/28, **Qingdao University of Technology**, Qingdao, PRC  
 
