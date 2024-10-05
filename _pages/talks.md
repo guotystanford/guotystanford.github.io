@@ -22,20 +22,20 @@ redirect_from:
 * <i>Experimental study on the effects of CO<sub>2</sub> injection on the mechanical behavior of Tuscaloosa sandstone</i>  
 
 12/13,	**AGU Fall Meeting 2023**, San Francisco, USA  
-*<i>Training a Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions</i>  
+* <i>Training a Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions</i>  
 
 
 ### 2021
 08/12, **American Rock Mechanics Association (ARMA) University of Toronto student chapter lecture series** (Online)  
-<i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>
+* <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>
 
 
 ## Presentations on Doctoral Research
 
 ### 2021
-12/26, **Sun Yat-sen University**, (Online)  
+12/26, **Sun Yat-sen University**, Online  
 
-11/16, **The 13th Asian Regional Conference (ARC13) of International Association for Engineering Geology and the Environment (IAEG)**, (Oneline Theme Lecture)
+11/16, **The 13th Asian Regional Conference (ARC13) of International Association for Engineering Geology and the Environment (IAEG)**, Oneline Theme Lecture
 
 10/07, **China Three Gorges University**, Yichang, PRC
 
