@@ -45,14 +45,14 @@ redirect_from:
   Bulletin of Engineering Geology and Environment  
   Geothermics  
   Geophysical Journal International  
-  Construction and Building Materials
+  Construction and Building Materials  
   International journal for numerical and analytical methods in geomechanics  
 
 * <b>Session chair</b>  
   AGU Fall Meeting 2024, Washington, DC, USA  
-    Session S022 Leveraging Deep Learning to Advance Induced Seismicity Monitoring
-  58th US Rock Mechanics/Geomechanics Symposium 2024, Golden, USA
-    Applications of AI in Experimental, Numerical and Geophysical Rock Mechanics   
+    <b>Session S022 Leveraging Deep Learning to Advance Induced Seismicity Monitoring</b>
+  58th US Rock Mechanics/Geomechanics Symposium 2024, Golden, USA  
+    <b>Applications of AI in Experimental, Numerical and Geophysical Rock Mechanics</b>   
 <br>
 
 ## Honors and awards
