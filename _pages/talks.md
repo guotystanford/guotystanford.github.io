@@ -18,8 +18,8 @@ redirect_from:
 ## Presentations on Postdoc Research  
 ### 2023
 02/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
-* <i>AE-Flow: A workflow for analyzing acoustic emission during laboratory rock fracturing tests</i>   
-* <i>Experimental study on the effects of CO<sub>2</sub> injection on the mechanical behavior of Tuscaloosa sandstone</i>  
+* <i>AE-Flow: A Workflow for Analyzing Acoustic Emission during Laboratory Rock Fracturing Tests</i>   
+* <i>Experimental Study on the Effects of CO<sub>2</sub> Injection on the Mechanical Behavior of Tuscaloosa Sandstone</i>  
 
 12/13,	**AGU Fall Meeting 2023**, San Francisco, USA  
 * <i>Training a Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions</i>  
