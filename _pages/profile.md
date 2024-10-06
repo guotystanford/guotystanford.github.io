@@ -17,7 +17,7 @@ redirect_from:
   
 * <b>MEng, Hydraulic Structure Engineering</b>, 2013/09-2016/06   
   School of Water Resources and Hydropower Engineering, Wuhan University（WHU）, Wuhan, PRC     
-  Advisor: [Prof. Wenbo Lu](https://swrh.whu.edu.cn/info/1087/3084.htm), [Prof. Ming Chen](https://swrh.whu.edu.cn/info/1087/3096.htm)      
+  Advisors: [Prof. Wenbo Lu](https://swrh.whu.edu.cn/info/1087/3084.htm), [Prof. Ming Chen](https://swrh.whu.edu.cn/info/1087/3096.htm)      
   Dissertation: <i>Effect of the blasting excavation on the stability of structural surfaces in rock slope</i>  
   
 * <b>BEng, Hydraulic Engineering</b>, 2009/09-2013/06   
@@ -45,7 +45,8 @@ redirect_from:
   Bulletin of Engineering Geology and Environment  
   Geothermics  
   Geophysical Journal International  
-  Construction and Building Materials  
+  Construction and Building Materials
+  International journal for numerical and analytical methods in geomechanics  
 
 * <b>Session chair</b>  
   AGU Fall Meeting 2024, Washington, DC, USA  
