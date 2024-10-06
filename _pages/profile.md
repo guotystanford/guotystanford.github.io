@@ -13,12 +13,12 @@ redirect_from:
 * <b>Ph.D., Rock Mechanics</b>, 2016/09-2020/012   
   Department of Earth Sciences, The University of Hong Kong (HKU), Hong Kong, PRC   
   Advisor: [Prof. Louis N.Y. Wong](https://www.earthsciences.hku.hk/people/academic_staff/77/?back=af3a6f1ace1fc32210286eb66ab8ef53)     
-  Dissertation: ["<i>Microcracking mechanisms of Hong Kong granite : insights from acoustic emission and microscopic observation</i>"](https://www.researchgate.net/publication/354544340_Microcracking_mechanisms_of_Hong_Kong_granite_Insights_from_acoustic_emission_and_microscopic_observation)  
+  Dissertation: [<i>Microcracking mechanisms of Hong Kong granite : insights from acoustic emission and microscopic observation</i>](https://www.researchgate.net/publication/354544340_Microcracking_mechanisms_of_Hong_Kong_granite_Insights_from_acoustic_emission_and_microscopic_observation)  
   
 * <b>MEng, Hydraulic Structure Engineering</b>, 2013/09-2016/06   
   School of Water Resources and Hydropower Engineering, Wuhan University（WHU）, Wuhan, PRC     
   Advisor: [Prof. Wenbo Lu](https://swrh.whu.edu.cn/info/1087/3084.htm), [Prof. Ming Chen](https://swrh.whu.edu.cn/info/1087/3096.htm)      
-  Dissertation: "<i>Effect of the blasting excavation on the stability of structural surfaces in rock slope</i>"  
+  Dissertation: <i>Effect of the blasting excavation on the stability of structural surfaces in rock slope</i>  
   
 * <b>BEng, Hydraulic Engineering</b>, 2009/09-2013/06   
   School of Water Resources and Hydropower Engineering, Wuhan University, Wuhan, PRC    
