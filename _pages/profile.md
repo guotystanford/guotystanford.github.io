@@ -50,7 +50,9 @@ redirect_from:
 
 * <b>Session chair</b>  
   AGU Fall Meeting 2024, Washington, DC, USA  
-  58th US Rock Mechanics/Geomechanics Symposium 2024, Golden, USA   
+    Session S022 Leveraging Deep Learning to Advance Induced Seismicity Monitoring
+  58th US Rock Mechanics/Geomechanics Symposium 2024, Golden, USA
+    Applications of AI in Experimental, Numerical and Geophysical Rock Mechanics   
 <br>
 
 ## Honors and awards
