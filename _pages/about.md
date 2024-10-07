@@ -12,7 +12,6 @@ I am an **experimentalist** and **data scientist** in rock mechanics and enginee
 **Research Interests:** Rock Mechanics, Acoustic emission, AI4 Rock Engineering, Geothermal, Carbon Capture, Utilization, and Storage (CCUS)
 
 # Motivation and Vision
-
 My motivation of doing research stems from a deep desire to **advance science** by **making discoveries** and **developing innovative techniques**. I am particularly passionate about the research and technology that have the potential to **foster a more sustainable society** while also promoting **diversity, inclusion and social justice**.
 
 In the future, I aim to leverage my experience and expertise to tackle scientific challenges in rock engineering that contribute to achieving **Net Zero**, such as **enhanced geothermal systems (EGS)** and **nuclear waste geological disposal**, which are closely related to utilizing non-carbon (e.g. geothermal and nuclear) energy, as well as **CO<sub>2</sub> geological storage**
