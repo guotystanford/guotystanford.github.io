@@ -35,7 +35,7 @@ Graded assignments and tutorial sessions, organized field trips and laboratory v
   
 <img src="/images/Geological structure in HK.jpg"/>
 <div align="center">  
-#### **(a)** A fault at [Po Toi Islands](https://en.wikipedia.org/wiki/Po_Toi), **(b)、(c)** Beddings at [Tung Ping Chau](https://en.wikipedia.org/wiki/Tung_Ping_Chau), **(d)** Flods at [Ma Shi Chau](https://en.wikipedia.org/wiki/Ma_Shi_Chau)
+**(a)A fault at [Po Toi Islands](https://en.wikipedia.org/wiki/Po_Toi), (b)、(c) Beddings at [Tung Ping Chau](https://en.wikipedia.org/wiki/Tung_Ping_Chau), (d)Flods at [Ma Shi Chau](https://en.wikipedia.org/wiki/Ma_Shi_Chau)** 
 </div>
 
 <div align="center">  
