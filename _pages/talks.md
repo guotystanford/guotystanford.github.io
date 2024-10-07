@@ -15,7 +15,7 @@ redirect_from:
 03/14, **New Mexico Institute of Mining and Technology**, Socorro, USA:  
 <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>
 
-## Presentations on Postdoc Research  
+## Presentations on Postdoctoral Research  
 ### 2023
 02/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
 * <i>AE-Flow: A Workflow for Analyzing Acoustic Emission during Laboratory Rock Fracturing Tests</i>   
