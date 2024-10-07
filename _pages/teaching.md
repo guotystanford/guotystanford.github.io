@@ -11,7 +11,7 @@ author_profile: true
 * 2016-2017, Lydia Tin Man Yip (Grade: B+) 
 * 2017-2018, Wing Ki Lam (Grade: B+), Jay Yu Hin Ng (Grade: B+)
 * 2018-2019, Benjamin Chung Yeung Yung (Grade: A+)  
-  [Second runner-up in the Association of Geotechnical and Geoenvironmental Specialists (HK) Final Year Projects Competition 2019](https://www.earthsciences.hku.hk/news_and_events/news/72/?back=8fa435f675f288b6086d5b29f2647e42)
+  [Second runner-up prize in the Association of Geotechnical and Geoenvironmental Specialists (HK) Final Year Projects Competition 2019](https://www.earthsciences.hku.hk/news_and_events/news/72/?back=8fa435f675f288b6086d5b29f2647e42)
 * 2019-2020, Xinyu Xiao (Grade: A), Abraham Man Lok Siu (Grade: A-)  
 Proposed research topics, developed experimental plans, taught experimental skills, organized regular meetings, edited and commented on FYP thesis and presentations 
 <br>
@@ -20,7 +20,7 @@ Proposed research topics, developed experimental plans, taught experimental skil
 ### Graduate-level
   * <b>[GEOS7015]: Rock Mechanics</b>, Fall 2016
   * <b>[GEOS8101]: Engineering Geology and Geotechnical Design</b>, Fall 2016
-  * <b>[GEOS7012]: Plasticity Modeling and Computation</b>, Spring 2021
+  * <b>[GEOS7012]: Site Investigation & Engineering Geological Techniques </b>, Spring 2021
   * <b>[GEOS7021]: Geological fieldwork I</b>, Spring 2020
 
 ### Undergraduate-level
