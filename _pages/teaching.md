@@ -14,7 +14,6 @@ Proposed research topics, developed experimental plans, taught experimental skil
 * 2018-2019, Benjamin Chung Yeung Yung (Grade: A+)  
   [Second runner-up prize in the Association of Geotechnical and Geoenvironmental Specialists (HK) Final Year Projects Competition 2019](https://www.earthsciences.hku.hk/news_and_events/news/72/?back=8fa435f675f288b6086d5b29f2647e42)
 * 2019-2020, Xinyu Xiao (Grade: A), Abraham Man Lok Siu (Grade: A-)  
-<br>
 
 ## Teaching Assistant at the University of Hong Kong:  
 Graded assignments and tutorial sessions, organized field trips and laboratory visits in Hong Kong.
