@@ -11,8 +11,8 @@ redirect_from:
 
 ## Job talks  
 
-### 2023  
-09/01, **New Mexico Institute of Mining and Technology**, Socorro, USA:  
+### 2024  
+03/14, **New Mexico Institute of Mining and Technology**, Socorro, USA:  
 <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>
 
 ## Presentations on Postdoc Research  
