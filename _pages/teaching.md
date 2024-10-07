@@ -39,5 +39,5 @@ Graded assignments and tutorial sessions, organized field trips and laboratory v
 
 <div align="center">  
 <img src="/images/Field Trip in HK.jpg"/>
-<b>Fild trip at (a) DRiLTECH Investigation Site, (b) Ma Shi Chau, (c)<a href= "https://en.wikipedia.org/wiki/Pui_O">Pui O</a>, (d)<a href= "https://en.wikipedia.org/wiki/Lai_Chi_Chong">Lai Chi Chong</a></b>
+<b>Fild trip at (a) DRiLTECH Investigation Site, (b) Ma Shi Chau, (c) <a href= "https://en.wikipedia.org/wiki/Pui_O">Pui O</a>, (d) <a href= "https://en.wikipedia.org/wiki/Lai_Chi_Chong">Lai Chi Chong</a></b>
 </div>
