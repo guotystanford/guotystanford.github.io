@@ -36,6 +36,7 @@ Graded assignments and tutorial sessions, organized field trips and laboratory v
 <div align="center">  
 <b>(a)A fault at <a href= "https://en.wikipedia.org/wiki/Po_Toi">Po Toi Islands</a>, (b)、(c) Beddings at <a href= "https://en.wikipedia.org/wiki/Tung_Ping_Chau">Tung Ping Chau</a>, (d)Flods at <a href= "https://en.wikipedia.org/wiki/Ma_Shi_Chau">Ma Shi Chau</a></b>
 </div>
+<br>
 
 <div align="center">  
 <img src="/images/Field Trip in HK.jpg"/>
