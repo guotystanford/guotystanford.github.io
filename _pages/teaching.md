@@ -28,4 +28,16 @@ Proposed research topics, developed experimental plans, taught experimental skil
   * <b>[EASC3414]: Soil & Rock Mechanics</b>, Spring 2016
   * <b>[EASC2402]: Field and Laboratory Methods </b>, Fall 2017
   * <b>[EASC1401]: Blue Planet </b>, Fall 2018, 2019  
-    Graded assignments and tutorial sessions, organized field trips and laboratory visits in Hong Kong.
+    Graded assignments and tutorial sessions, organized field trips and laboratory visits in Hong Kong.  
+
+## Highlighs during the Field trips
+
+<img src="/images/Geological structure in HK.jpg"/>  
+<h6 align="center">  
+
+**(a)** A fault at [Po Toi Islands](https://en.wikipedia.org/wiki/Po_Toi), **(b)、(c)** Beddings at [Tung Ping Chau](https://en.wikipedia.org/wiki/Tung_Ping_Chau), **(d)** Flods at [Ma Shi Chau](https://en.wikipedia.org/wiki/Ma_Shi_Chau)
+
+<img src="/images/Field Trip in HK.jpg"/>  
+<h6 align="center">  
+
+Fild trip at **(a)** DRiLTECH Investigation Site, **(b)** Ma Shi Chau, **(c)** [Pui O](https://en.wikipedia.org/wiki/Pui_O), **(d)** [Lai Chi Chong](https://en.wikipedia.org/wiki/Lai_Chi_Chong)
