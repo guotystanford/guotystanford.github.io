@@ -34,11 +34,10 @@ Graded assignments and tutorial sessions, organized field trips and laboratory v
   
 <img src="/images/Geological structure in HK.jpg"/>
 <div align="center">  
-(a)A fault at <a href= "https://en.wikipedia.org/wiki/Po_Toi">Po Toi Islands</a>, (b)、(c) Beddings at <a href= "https://en.wikipedia.org/wiki/Tung_Ping_Chau">Tung Ping Chau</a>, (d)Flods at <a href= "https://en.wikipedia.org/wiki/Ma_Shi_Chau">Ma Shi Chau</a>
+<b>(a)A fault at <a href= "https://en.wikipedia.org/wiki/Po_Toi">Po Toi Islands</a>, (b)、(c) Beddings at <a href= "https://en.wikipedia.org/wiki/Tung_Ping_Chau">Tung Ping Chau</a>, (d)Flods at <a href= "https://en.wikipedia.org/wiki/Ma_Shi_Chau">Ma Shi Chau</a></b>
 </div>
-<br>
 
 <div align="center">  
 <img src="/images/Field Trip in HK.jpg"/>
- #### * Fild trip at **(a)** DRiLTECH Investigation Site, **(b)** Ma Shi Chau, **(c)** [Pui O](https://en.wikipedia.org/wiki/Pui_O), **(d)** [Lai Chi Chong](https://en.wikipedia.org/wiki/Lai_Chi_Chong)  
+<b>Fild trip at (a) DRiLTECH Investigation Site, (b) Ma Shi Chau, (c)<a href= "https://en.wikipedia.org/wiki/Pui_O">Pui O</a>, (d)<a href= "https://en.wikipedia.org/wiki/Lai_Chi_Chong">Lai Chi Chong</a></b>
 </div>
