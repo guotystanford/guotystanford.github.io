@@ -32,13 +32,12 @@ Graded assignments and tutorial sessions, organized field trips and laboratory v
      
 
 ## Highlighs during the Field trips
-
-<img src="/images/Geological structure in HK.jpg"/>  
 <h6 align="center">  
 **(a)** A fault at [Po Toi Islands](https://en.wikipedia.org/wiki/Po_Toi), **(b)、(c)** Beddings at [Tung Ping Chau](https://en.wikipedia.org/wiki/Tung_Ping_Chau), **(d)** Flods at [Ma Shi Chau](https://en.wikipedia.org/wiki/Ma_Shi_Chau)  
 </h6>
+<img src="/images/Geological structure in HK.jpg"/>  
 
-<img src="/images/Field Trip in HK.jpg"/>  
 <h6 align="center">  
 * Fild trip at **(a)** DRiLTECH Investigation Site, **(b)** Ma Shi Chau, **(c)** [Pui O](https://en.wikipedia.org/wiki/Pui_O), **(d)** [Lai Chi Chong](https://en.wikipedia.org/wiki/Lai_Chi_Chong)  
 </h6>
+<img src="/images/Field Trip in HK.jpg"/>  
