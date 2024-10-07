@@ -26,7 +26,7 @@ Proposed research topics, developed experimental plans, taught experimental skil
   * <b>[EASC3413]: Engineering Geology</b>, Spring 2016, 2019; Fall 2018
   * <b>[EASC3414]: Soil & Rock Mechanics</b>, Spring 2016
   * <b>[EASC2402]: Field and Laboratory Methods </b>, Fall 2017
-  * <b>[EASC1401]: Blue Planet </b>, Fall 2018, 2019
+  * <b>[EASC1401]: Blue Planet </b>, Fall 2018, 2019  
 Graded assignments and tutorial sessions, organized field trips and laboratory visits in Hong Kong.
      
 
