@@ -20,9 +20,10 @@ In the future, I aim to leverage my experience and expertise to tackle scientifi
 # News
 ## 2024
   -**11/18**:
-    My [first paper on application of AI in AE data processing](https://www.researchgate.net/publication/385906798_A_Deep-learning_P-wave_Arrival_Picker_for_Laboratory_Acoustic_Emissions_Model_Training_and_its_Performance?_sg%5B0%5D=96uMFM0dj3bjSk0gkb9BpI93_OXVmy1iyoXTeZcLG2EMshsQK5XZWWoOMe5dHIX-9hZwDc5qKEes1-Ka_VQzmxC__EHchyl2I6YAlVXc.ivrzrkHkeNYyu-WB60CSMx3VF_tYcZ6FkKrRQ1geWwCBRXzx4wCXP8Sn6GjoOsGe9OC_Y5HT9Khqv3e3K4zb9Q&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) has been accepted in RMRE. Congratulation!
+    My [first paper on application of AI in AE data processing](https://www.researchgate.net/publication/385906798_A_Deep-learning_P-wave_Arrival_Picker_for_Laboratory_Acoustic_Emissions_Model_Training_and_its_Performance?_sg%5B0%5D=96uMFM0dj3bjSk0gkb9BpI93_OXVmy1iyoXTeZcLG2EMshsQK5XZWWoOMe5dHIX-9hZwDc5qKEes1-Ka_VQzmxC__EHchyl2I6YAlVXc.ivrzrkHkeNYyu-WB60CSMx3VF_tYcZ6FkKrRQ1geWwCBRXzx4wCXP8Sn6GjoOsGe9OC_Y5HT9Khqv3e3K4zb9Q&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) has been accepted in RMRE. Congratulation!  
   -**11/15**:
-    I was invited to present in the ARMA Future Leaders Webinar Series
-  - **10/2**:
-    My website is officially online.
+    I was invited to present in the ARMA Future Leaders Webinar Series  
+  -**10/2**:
+    My website is officially online
+
 
