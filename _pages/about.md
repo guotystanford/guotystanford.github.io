@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br>
 # About me
-I am an **experimentalist** and **data scientist** in rock mechanics and engineering geology. I earned my Ph.D. in rock mechanics under the mentorship of [Prof. Louis Wong](https://www.earthsciences.hku.hk/people/academic_staff/77/?back=af3a6f1ace1fc32210286eb66ab8ef53) from the [Department of Earth Sciences](https://www.earthsciences.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/) . I am a Postdoctoral Scholar at the [Rock Physics and Geomaterials Lab](https://rgl.stanford.edu/), working with [Prof. Tiziana Vanorio](https://profiles.stanford.edu/tiziana-vanorio?releaseVersion=10.8.0), at [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/).
+I am an **experimentalist** and **data scientist** specializing in rock mechanics and engineering geology. I earned my Ph.D. in rock mechanics under the mentorship of [Prof. Louis Wong](https://www.earthsciences.hku.hk/people/academic_staff/77/?back=af3a6f1ace1fc32210286eb66ab8ef53) from the [Department of Earth Sciences](https://www.earthsciences.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/) . I am a Postdoctoral Scholar at the [Rock Physics and Geomaterials Lab](https://rgl.stanford.edu/), working with [Prof. Tiziana Vanorio](https://profiles.stanford.edu/tiziana-vanorio?releaseVersion=10.8.0), at [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/).
 
 **Research Interests:** Rock Mechanics, Acoustic emission, AI4 Rock Engineering, Geothermal, Carbon Capture, Utilization, and Storage (CCUS)
 
@@ -19,6 +19,11 @@ In the future, I aim to leverage my experience and expertise to tackle scientifi
 
 # News
 ## 2024
+  -**11/18**:
+  My [first paper on application of AI in AE data processing] (https://www.researchgate.net/publication/385906798_A_Deep-learning_P-wave_Arrival_Picker_for_Laboratory_Acoustic_Emissions_Model_Training_and_its_Performance?_sg%5B0%5D=96uMFM0dj3bjSk0gkb9BpI93_OXVmy1iyoXTeZcLG2EMshsQK5XZWWoOMe5dHIX-9hZwDc5qKEes1-Ka_VQzmxC__EHchyl2I6YAlVXc.ivrzrkHkeNYyu-WB60CSMx3VF_tYcZ6FkKrRQ1geWwCBRXzx4wCXP8Sn6GjoOsGe9OC_Y5HT9Khqv3e3K4zb9Q&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) has been accepted in RMRE. Congratulation!
+  
+  -**11/15**:
+   I was invited to present in the ARMA Future Leaders Webinar Series
   - **10/2**:
     My website is officially online.
 
