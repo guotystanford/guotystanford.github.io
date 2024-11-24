@@ -49,11 +49,14 @@ redirect_from:
   International journal for numerical and analytical methods in geomechanics  
 
 * <b>Session chair</b>  
+  59th US Rock Mechanics/Geomechanics Symposium 2024, Santa Fe, New Mexico  
+    <b>IS06 AI Applications in Geophysics and Experimental Rock Mechanics</b>
+  <br>  
   AGU Fall Meeting 2024, Washington, DC, USA  
     <b>Session S022 Leveraging Deep Learning to Advance Induced Seismicity Monitoring</b>
   <br> 
   58th US Rock Mechanics/Geomechanics Symposium 2024, Golden, USA  
-    <b>Applications of AI in Experimental, Numerical and Geophysical Rock Mechanics</b>   
+    <b>IS10 AI in Experimental Testing</b>   
 <br>
 
 ## Honors and awards
