@@ -34,11 +34,10 @@ redirect_from:
   Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (PolyU)   
 
 * <b>Teaching assistant</b>, 2016/09-2021/09  
-  Department of Earth Sciences, The University of Hong Kong 
+  Department of Earth Sciences, The University of Hong Kong  
 <br>      
 
-## Academic services
-  
+## Academic services 
 * <b>Journal reviewer</b>  
   Rock Mechanics and Rock Engineering  
   Journal of Rock Mechanics and Geotechnical Engineering  
@@ -50,13 +49,11 @@ redirect_from:
 
 * <b>Session chair</b>  
   59th US Rock Mechanics/Geomechanics Symposium 2024, Santa Fe, USA  
-    <b>IS06 AI Applications in Geophysics and Experimental Rock Mechanics</b>
-  <br>
+    <b>IS06 AI Applications in Geophysics and Experimental Rock Mechanics</b>  
   AGU Fall Meeting 2024, Washington, DC, USA  
-    <b>Session S022 Leveraging Deep Learning to Advance Induced Seismicity Monitoring</b>
-  <br>
+    <b>Session S022 Leveraging Deep Learning to Advance Induced Seismicity Monitoring</b>  
   58th US Rock Mechanics/Geomechanics Symposium 2024, Golden, USA  
-    <b>IS10 AI in Experimental Testing</b>   
+    <b>IS10 AI in Experimental Testing</b>  
 <br>
 
 ## Honors and awards
