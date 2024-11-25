@@ -35,7 +35,7 @@ redirect_from:
 
 * <b>Teaching assistant</b>, 2016/09-2021/09  
   Department of Earth Sciences, The University of Hong Kong  
-<br>      
+<br>
 
 ## Academic services 
 * <b>Journal reviewer</b>  

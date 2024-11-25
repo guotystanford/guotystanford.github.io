@@ -16,6 +16,11 @@ redirect_from:
 <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>
 
 ## Presentations on Postdoctoral Research  
+### 2024
+11/15, **ARMA Future Leader Webinar Series**(Online)  
+* <i>The Effect of Microstructure on the Cracking Mechanisms and Acoustic Emission Features of Rocks</i>  
+
+
 ### 2023
 02/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
 * <i>AE-Flow: A Workflow for Analyzing Acoustic Emission during Laboratory Rock Fracturing Tests</i>   
