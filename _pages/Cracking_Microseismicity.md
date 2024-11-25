@@ -2,7 +2,7 @@
 layout: archive
 title: "Constitutive modeling of transversely isotropic rocks"
 collection: research
-permalink: /research/constitutive-modeling/
+permalink: /research/Cracking_Microseismicity/
 ---
 ## Anisotropic modified Cam-Clay model:
 <p align="justify">

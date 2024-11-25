@@ -2,7 +2,7 @@
 layout: archive
 title: "Poromechanical modeling of coupled solid deformation-fluid flow in shale"
 collection: research
-permalink: /research/poromechanics/
+permalink: /research/Intelligent_AE/
 ---
 
 ## Coupled solid deformation-fluid flow in anisotropic elastoplastic media

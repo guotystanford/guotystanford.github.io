@@ -2,7 +2,7 @@
 layout: archive
 title: "Fracture modeling of rocks with bedding planes"
 collection: research
-permalink: /research/fracture-modeling/
+permalink: /research/Microcracking_Granite/
 ---
 
 ## A dual-mechanism tensile failure criterion for transversely isotropic rocks 
