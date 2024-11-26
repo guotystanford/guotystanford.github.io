@@ -47,7 +47,6 @@ Creep induced strain localization in specimen with a weak spot.
 Creep induced strain localization in specimen with heterogeneous material distribution.  
 </h6>
 
-## Double-yield-surface plasticity model:  
 <p align="justify">
 For transversely isotropic rocks, the bedding structure can result in an anisotropic rock matrix whose mechanical response can be characterized with the anisotropic modified Cam-Clay model. Moreover, the bedding planes are also weak planes along which plastic sliding can occur. These two competing mechanisms together determine the overall response of the material. Based on this concept, in addition to using the AMCC model to quantify the anisotropic response of the rock matrix, we treated plastic sliding along weak bedding planes with distinction and proposed a double-yield-surface plasticity model for transversely isotropi crocks[3].  
 </p>
