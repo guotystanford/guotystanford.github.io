@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Constitutive modeling of transversely isotropic rocks"
+title: "Undstanding Rock Cracking Behavior from Microseismicity"
 collection: research
 permalink: /research/Cracking_Microseismicity/
 ---
-## Anisotropic modified Cam-Clay model:
+## The effects of loading mode:
 <p align="justify">
 I have developed a constitutive model to capture the anisotropic mechanical response of transversely isotropic rocks by extending the modified Cam-Clay model with an alternative stress state transformed with a rank-four projection tensor that contains the information of the spatial orientation of the bedding structures[1]. Using the proposed model, I conducted stress-point simulations of plane strain compression test on overconsolidated Tournemire shale, and the result is demonstrated in the figure below:  
 </p>
@@ -34,7 +34,7 @@ Shear bands triggered by end contraints. bedding plane orientation equals (left)
 As demonstrated above, both strain localization at material level and end contraints can lead to shear failure, and the two factors working together may lead to complex zigzagged failure patterns commonly observed in laboratory experiments on shale.  
 </p>
 
-## Cam-Clay IX model:
+## The effects of rock texture:
 <p align="justify">
 As a contributing author, I contributed to the development of the Cam-Clay IX model that considers anisotropy, material heterogeneity, and viscoplasticity of shale[2]. This model can properly quantify the mechanical response of shale with different material compositions. Besides, it can capture time-dependent processes such as creep and relaxation in shale. Moreover, for the first time reported in the literature, we showed that a shear band can form in a shale specimen even with a constant load when the viscosity in its mechanical response is considered, a phenomenon we called “creep-induced strain localization”. The following figures demonstrate the evolution of creep induced shear bands in a specimen with a weak spot, and in a specimen consists of heterogeneous materials:  
 </p>

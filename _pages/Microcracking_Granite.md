@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Fracture modeling of rocks with bedding planes"
+title: "Microcracking Mechanisms of Granite"
 collection: research
 permalink: /research/Microcracking_Granite/
 ---
 
-## A dual-mechanism tensile failure criterion for transversely isotropic rocks 
+## Cracking behavior of granite under tensile loading: insights from thin-section analysis 
 <p align="justify">
 Tensile failure is a common failue mode in shale in engineering applications such as shale gas exploitation. Tensile for transversely isotropic rocks like shale is usually dependent on the bedding plane orientation in the material, and the Nova-Zaninetti criterion is commonly accepted as the tensile failure criterion with the best performance, which extends the Rankine criterion by constructing a bedding-orientation-dependent rock strength with a rank-two tensor to characterize the anisotropy in rock strength. Such a criterion can be fully calibrated with rock tensile strength along the bed-normal and bed-parallel directions, and the shape of the variation curve of rock tensile strength with bedding plane orientation is determined by the anisotropy ratio, defined as the ratio between rock strength along the bed-parallel direction and the bed-normal direction.  
 </p>
@@ -20,8 +20,9 @@ The figure above illustrates the variation of tensile strength with bedding plan
 
 * The shape of variation curve of rock tensile strength predicted with the Nova-Zaninetti criterion is determined with a given anisotropy ratio, but in reality there can be different forms of the variation curves;  
 * For rocks with weakly-cemented bedding planes such as the Midgley Grit Sandstone, there exists a transition in the strength variation curve distinguishing failure along bedding planes or through rock matrix, which can not be reproduced by the Nova-Zaninetti criterion;  
-* It has been revealed in literatures that the prediction of failure plane orientation with the Nova-Zaninetti can hardly be regarded as perfect.  
+* It has been revealed in literatures that the prediction of failure plane orientation with the Nova-Zaninetti can hardly be regarded as perfect. 
 
+## Microcracking behavior transition in thermally treated granite  
 <p align="justify">
 Faced with the limitations of the existing tensile failure criteria for transversely isotropic rocks, we developed a novel two-mechanism tensile failure criterion that can overcome these issues[1]. For failure through anisotropic rock matrix, we also extended the Rankine criterion to reflect the impact of material anisotropy. Rather than finding a direct expression of the bedding-orientation-dependent rock strength, we instead extend the stress measure with an alternative stress transformed with a rank-four projection tensor. Failure criterion for anisotropic rock matrix developed in this manner has a more general application range than the Nova-Zaninetti criterion, as for a given anisotropy ratio, there can be various forms of the strength variation curve with bedding plane orientation.  
 </p>  
@@ -38,7 +39,7 @@ For failure along the bedding planes, we treat it seperately and constructed the
 <h6 align="center">Variation of (left) tensile strength (right) failure plane orientation with bedding plane orientation for Lyons Sandstone.  
 </h6>
 
-## Phase-field modeling of tensile fracturing processes in transversely isotropic rocks 
+## Fracture process zone of granite in mode I semi-circular bending （SCB）tests
 <p align="justify">
 One of my ongoing work is to cast the dual mechanism failure criterion into the phase-field fracture modeling framework and develop a computational tool for boundary-value problem simulations that involve tensile failure of transversely isotropic rocks[2]. By assigning each failure mechanism a distinct phase-field variable, we can describe failure through rock matrix or along weak bedding planes separately.  
 </p>

@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Poromechanical modeling of coupled solid deformation-fluid flow in shale"
+title: "Intelligent Acoustic Emission Monitoring"
 collection: research
 permalink: /research/Intelligent_AE/
 ---
 
-## Coupled solid deformation-fluid flow in anisotropic elastoplastic media
+## AE-PNet: A Deep-Learning P-Wave Arrival Picker for Laboratory Acoustic Emissions
 <p align="justify">
 The effective stress concept and the poromechanical framework pioneered by Terzaghi and Biot have been widely adopted to illustrate coupled fluid flow and solid deformation in porous rocks, but there were still some links missing for anisotropic and ductile rocks like shale. There hardly exists complete discussions in existing research work on poromechanical formulations that consider material anisotropy, elastoplastic, and grain compressibility, and they are all critical components in quantifying the hydromechanical processes in transversely isotropic rocks. Based on the mixture theory and continuum thermodynamics, I derived a novel mathematical framework for coupled solid deformation and fluid flow with all of the aforementioned factors addressed[1].  
 </p> 
@@ -17,6 +17,7 @@ The proposed framework involves a new set of governing equations for mass conser
 <h6 align="center">Setup of the consolidation problem in a transversely isotropic medium under a strip load.  
 </h6>
 
+## Stanford Acoustic Emission Data set [(SAED)](https://purl.stanford.edu/mz374gr4108)
 <p align="justify">
 The figures below demonstrate the influence of elastoplasticity on the consolidation process in the domain. In elastic domain, the pore pressure build-up and the ground settlement is the least, while for normally consolidated medium with p<sub>c0</sub>=-1MPa, the material is the weakest and the domain undergoes largest pore pressure accumulation and ground settlement. For overconsolidated medium with p<sub>c0</sub>=-2MPa, the evolution of pore pressure and ground settlement lie in between the other two scenarios.  
 </p>
@@ -45,7 +46,7 @@ The figures below shows contours of plastic deformation in both normally consoli
 <h6 align="center">Contour of norm of plastic strain in the medium for various scenarios.   
 </h6>
 
-## Poromechanical modeling of anisotropic elastoplastic media with double porosity
+## AE P-wave arrival picking platform
 <p align="justify">
 I have developed a novel continuum poromechanical framework for shale considering the bimodal pore size distribution from the existing form of voids in shale as either microcracks or nanopores. Specifically speaking, I extended the framework discussed in the previous section with the double porosity theory, which allows for the consideration of different permeability and constitutive law for fluid flow at different pore scales[2]. This work is the first of its kind to integrate factors including anisotropy, elastoplasticity, and double porosity in the analysis of hydromechanical responses of shale. 
 </p>
