@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Education
-* <b>Ph.D., Rock Mechanics</b>, 2016/09-2020/012   
+* <b>Ph.D., Rock Mechanics</b>, 2016/09-2020/12   
   Department of Earth Sciences, The University of Hong Kong (HKU), Hong Kong, PRC   
   Advisor: [Prof. Louis N.Y. Wong](https://www.earthsciences.hku.hk/people/academic_staff/77/?back=af3a6f1ace1fc32210286eb66ab8ef53)     
   Dissertation: [<i>Microcracking mechanisms of Hong Kong granite : insights from acoustic emission and microscopic observation</i>](https://www.researchgate.net/publication/354544340_Microcracking_mechanisms_of_Hong_Kong_granite_Insights_from_acoustic_emission_and_microscopic_observation)  
