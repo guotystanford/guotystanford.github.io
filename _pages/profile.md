@@ -39,8 +39,8 @@ redirect_from:
 ## Academic services 
 * <b>Journal reviewer</b>  
   Rock Mechanics and Rock Engineering
-  International Journal of Rock Mechanics and Mining Sciences
-  Acta Geotechnica
+  International Journal of Rock Mechanics and Mining Sciences  
+  Acta Geotechnica  
   Journal of Rock Mechanics and Geotechnical Engineering  
   Bulletin of Engineering Geology and Environment  
   Geothermics  
