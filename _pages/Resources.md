@@ -2,11 +2,7 @@
 permalink: /Resources/
 title: "Resources"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-<br>
 
 I am sharing some useful resources such as online courses, seminars and websites that may be useful for you study, career or personal development.
 
