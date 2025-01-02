@@ -17,7 +17,7 @@ redirect_from:
 
 ## Presentations on Postdoctoral Research  
 ### 2024
-11/15, **ARMA Future Leader Webinar Series**(Online)  
+11/15, **ARMA Future Leader Webinar Series** (Online)  
 * <i>[The Effect of Microstructure on the Cracking Mechanisms and Acoustic Emission Features of Rocks](https://youtu.be/NJG1eFJU1qY)</i>  
 
 

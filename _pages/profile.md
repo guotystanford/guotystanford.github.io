@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 ## Education
 * <b>Ph.D., Rock Mechanics</b>, 2016/09-2020/012   
