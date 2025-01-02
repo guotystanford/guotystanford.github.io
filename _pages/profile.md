@@ -28,7 +28,7 @@ author_profile: true
 
 * <b>Postdoctoral Fellow</b>, 2021/10-2022/05  
   <b>Research Associate</b>, 2021/02-2021/09  
-  Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (PolyU)   
+  Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (PolyU)  
 
 * <b>Teaching assistant</b>, 2016/09-2021/09  
   Department of Earth Sciences, The University of Hong Kong  
