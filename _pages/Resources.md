@@ -7,11 +7,11 @@ author_profile: true
 I am sharing some useful resources such as online courses, seminars and websites that may be useful for you study, career or personal development.
 
 ## Online Seminars  
-* International Society for Rock Mechanics and Rock Engineering  
+* International Society for Rock Mechanics and Rock Engineering (ISRM)  
   [Online Lectures series](https://isrm.net/isrm/page/show/1104)  
   [European Rock Mechanics Debates](https://www.youtube.com/playlist?list=PLJDDx6DYJKNCENzmPzTbozT24fLrM_9y6)  
 
-* American Rock Mechanics Association  
+* American Rock Mechanics Association (ARMA)  
   [Future leader](https://www.youtube.com/@armafutureleaders8531)  
   [Hydraulic Fracturing Community](https://www.youtube.com/@ARMA_HFC/featured)  
   [Induced Seismicity Technical Committee](https://www.youtube.com/@armainducedseismicitytechn1162/featured)  
@@ -27,4 +27,5 @@ I am sharing some useful resources such as online courses, seminars and websites
   Where I learn the basis of Python   
 
 ## Websites  
+* [ISRM Suggested Methods](https://isrm.net/isrm/page/show/1305)  
 * [Github Pages for academic personal websites](https://github.com/academicpages/academicpages.github.io)  
