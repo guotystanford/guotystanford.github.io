@@ -64,6 +64,6 @@ Variation of rock strength with bedding plane orientation. <br>
 </h6>
 <br>
 
-## Reference:  
+## References:  
 \[1\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2021). Cracking mechanisms of a medium-grained granite under mixed-mode I-II loading illuminated by acoustic emission. <i>International Journal of Rock Mechanics and Mining Sciences</i>. 145, 104852. [https://doi.org/10.1016/j.ijrmms.2021.104852](https://doi.org/10.1016/j.ijrmms.2021.104852)  
 \[2\] <b>Guo T.Y.</b>, & Zhao Q.\* (2022). Acoustic Emission Characteristics During the Microcracking Processes of Granite, Marble and Sandstone Under Mode I Loading. <i>Rock Mechanics and Rock Engineering</i>. 55, 5467-5489. [https://doi.org/10.1007/s00603-022-02937-1](https://doi.org/10.1007/s00603-022-02937-1)  
