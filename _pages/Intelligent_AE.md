@@ -67,5 +67,5 @@ As one can tell from the results, for each loading stress, both the primary and 
 </h6>
 
 ## Reference:
-\[1\] <b>Zhao Y.</b>, Borja R.I.\* (2020). A continuum framework for coupled solid deformation–fluid flow through anisotropic elastoplastic porous media. <i>Computer Methods in Applied Mechanics and Engineering</i>, 369, 113225.  <br>
-\[2\] <b>Zhao Y.</b>, Borja R.I.\* (2021). Anisotropic elastoplastic response of double-porosity media. <i>Computer Methods in Applied Mechanics and Engineering</i>, 380, 113797.
+\[1\] <b>Guo T.Y.\*</b>, Vanorio T., $ Jihui D. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
+\[1\] <b>Guo T.Y.\*</b>, Vanorio T., $ Jihui D. (2024). Stanford Acoustic Emission Data set. <i>Stanford Digital Repository</i> [https://purl.stanford.edu/mz374gr4108](https://purl.stanford.edu/mz374gr4108)  

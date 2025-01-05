@@ -65,6 +65,5 @@ Variation of rock strength with bedding plane orientation. <br>
 <br>
 
 ## Reference:  
-\[1\] <b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.* (2018). On the strength of transversely isotropic rocks. <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
-\[2\] Borja R.I.\*, Yin Q., <b>Zhao Y.</b> (2020). Cam-Clay plasticity. Part IX: On the anisotropy, heterogeneity, and viscoplasticity of shale. <i>Computer Methods in Applied Mechanics and Engineering</i>, 360, 112695.  
-\[3\] <b>Zhao Y.</b>, Borja R.I.* (2022). A double-yield-surface plasticity theory for transversely isotropic rocks. <i>Acta Geotechnica</i>, 17(11), 5201-5221.
+\[1\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2021). Cracking mechanisms of a medium-grained granite under mixed-mode I-II loading illuminated by acoustic emission. <i>International Journal of Rock Mechanics and Mining Sciences</i>. 145, 104852. [https://doi.org/10.1016/j.ijrmms.2021.104852](https://doi.org/10.1016/j.ijrmms.2021.104852)  
+\[2\] <b>Guo T.Y.</b>, & Zhao Q.\* (2022). Acoustic Emission Characteristics During the Microcracking Processes of Granite, Marble and Sandstone Under Mode I Loading. <i>Rock Mechanics and Rock Engineering</i>. 55, 5467-5489. [https://doi.org/10.1007/s00603-022-02937-1](https://doi.org/10.1007/s00603-022-02937-1)  

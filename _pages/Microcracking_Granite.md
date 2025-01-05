@@ -60,6 +60,9 @@ We also made a comparison of the rock tension strengh and failure plane orientat
 <h6 align="center">Variation of (left) tensile strength (right) failure plane orientation with bedding plane orientation for Lyons Sandstone.  
 </h6>
 
-## Reference:
-\[1\] <b>Zhao Y.</b>, Wang R., Zhang J.M.* (2022). A dual-mechanism tensile failure criterion for transversely isotropic rocks. <i>Acta Geotechnica</i>, 17(11), 5187-5200.  
-\[2\] Yuan W.H., <b>Zhao Y.</b>\*, Zhang B.Y., A stress-based double-phase-field framework for tensile fracturing process in transversely isotropic rocks, <i>manuscript in preparation</i>.  
+## References:
+\[1\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2020). Microcracking behavior of three granites under mode I loading: Insights from acoustic emission. <i>Engineering Geology</i>. 278, 105823. [https://doi.org/10.1016/j.enggeo.2020.105823](https://doi.org/10.1016/j.enggeo.2020.105823)  
+\[2\] <b>Guo T.Y.</b>, Wong L.N.Y.\*, $ Wu Z. (2021). Microcracking behavior transition in thermally treated granite under mode I loading. <i>Engineering Geology</i>. 282, 105992. [https://doi.org/10.1016/j.enggeo.2021.105992](https://doi.org/10.1016/j.enggeo.2021.105992)  
+\[3\] Wong L.N.Y., <b>Guo T.Y.\*</b>, Wu Z., & Xiao X. (2021). How do thermally induced microcracks alter microcracking mechanisms in granite? <i>Engineering Geology</i>. 292, 106268. [https://doi.org/10.1016/j.enggeo.2021.106268](https://doi.org/10.1016/j.enggeo.2021.106268)  
+\[4\] Wong L.N.Y., <b>Guo T.Y.\*</b>, Lam W.K., & Ng J.Y.H. (2019). Experimental study of cracking characteristics of Kowloon granite based on three mode I fracture toughness methods <i>Rock Mechanics and Rock Engineering.</i>. 52(11), 4217-4235. [https://doi.org/10.1007/s00603-019-01882-w](https://doi.org/10.1007/s00603-019-01882-w)  
+\[5\] Wong L.N.Y., & <b>Guo T.Y.\*</b> (2019). Microcracking behavior of two semi-circular bend specimens in mode I fracture toughness test of granite <i>Engineering Fracture Mechanics</i>. 221, 106565. [https://doi.org/10.1016/j.engfracmech.2019.106565](https://doi.org/10.1016/j.engfracmech.2019.106565)  
