@@ -20,7 +20,7 @@ Variations of (left) rock strength (right) failure plane orientation with beddin
 
 ## The effects of rock texture:
 <p align="justify">
-As a contributing author, I contributed to the development of the Cam-Clay IX model that considers anisotropy, material heterogeneity, and viscoplasticity of shale[2]. This model can properly quantify the mechanical response of shale with different material compositions. Besides, it can capture time-dependent processes such as creep and relaxation in shale. Moreover, for the first time reported in the literature, we showed that a shear band can form in a shale specimen even with a constant load when the viscosity in its mechanical response is considered, a phenomenon we called “creep-induced strain localization”. The following figures demonstrate the evolution of creep induced shear bands in a specimen with a weak spot, and in a specimen consists of heterogeneous materials:  
+Rocks are natural materials with diverse microstructures which control their mechanical behavior. This study investigated the effects of texture of three lithologies-granite marble, and sandstone-on their microcracking mechanisms. Results indicate that <b>rock texture and pre-existing microcracks are the primary factors controlling the microcracking mechanisms and the associated AE features [2].</b> This study highlights the importance of considering microscopic features when interpreting AE or micro-seismic data related to rock cracking.  
 </p>
 <img src="/images/Thin-section_analysis.jpg"/>  
 <h6 align="center">
@@ -36,7 +36,7 @@ Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ pr
 </h6>
 <img src="/images/Sandstone.jpg"/>  
 <h6 align="center">
-Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a sandstone granite specimen.    
+Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a sandstone  granite specimen.    
 </h6>
 <br>
 
