@@ -24,19 +24,19 @@ As a contributing author, I contributed to the development of the Cam-Clay IX mo
 </p>
 <img src="/images/Thin-section_analysis.jpg"/>  
 <h6 align="center">
-Creep induced strain localization in specimen with a weak spot.  
-</h6>
+The location of thin-section samples in SCB specimens.  
+</h5>
 <img src="/images/Granite.jpg"/>  
-<h6 align="center">
-Creep induced strain localization in specimen with heterogeneous material distribution.  
-</h6>
+<h5 align="center">
+Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a SCB granite specimen.  
+</h5>
 <img src="/images/Marble.jpg"/>  
 <h6 align="center">
-Creep induced strain localization in specimen with a weak spot.  
+Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a marble granite specimen.  
 </h6>
 <img src="/images/Sandstone.jpg"/>  
 <h6 align="center">
-Creep induced strain localization in specimen with heterogeneous material distribution.  
+Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a sandstone granite specimen.    
 </h6>
 <br>
 
