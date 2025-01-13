@@ -10,7 +10,7 @@ We investigated the effects of loading condition on the cracking behavior of a m
 </p>
 <img src="/images/Mixed-mode_density contour.jpg"/>  
 <h4 align="center">AE event density contour of FD-FPZs preceding the initiation of macrocracks of SCB specimens under model I (left) and mix-mode I-II loadings (right). <br>  
-</h>
+</h4>
 <img src="/images/Mixed-mode_event type.jpg"/>  
 <h4> align="center">The typical temporal changes of axial load and event-type ratios of SCB specimens under model I (left) and mix-mode I-II loadings (right). <br> 
 </h4>
@@ -39,11 +39,4 @@ Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ pr
 
 ## References:  
 \[1\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2021). Cracking mechanisms of a medium-grained granite under mixed-mode I-II loading illuminated by acoustic emission. <i>International Journal of Rock Mechanics and Mining Sciences</i>. 145, 104852. [https://doi.org/10.1016/j.ijrmms.2021.104852](https://doi.org/10.1016/j.ijrmms.2021.104852)  
-\[2\] <b>Guo T.Y.</b>, & Zhao Q.\* (2022). Acoustic Emission Characteristics During the Microcracking Processes of Granite, Marble and Sandstone Under Mode I Loading. <i>Rock Mechanics and Rock Engineering</i>. 55, 5467-5489. [https://doi.org/10.1007/s00603-022-02937-1](https://doi.org/10.1007/s00603-022-02937-1)
-
-## References:
-\[1\] Wong L.N.Y., <b>Guo T.Y.\*</b>, Lam W.K., & Ng J.Y.H. (2019). Experimental study of cracking characteristics of Kowloon granite based on three mode I fracture toughness methods <i>Rock Mechanics and Rock Engineering.</i>. 52(11), 4217-4235. [https://doi.org/10.1007/s00603-019-01882-w](https://doi.org/10.1007/s00603-019-01882-w)  
-\[2\] <b>Guo T.Y.</b>, Wong L.N.Y.\*, & Wu Z. (2021). Microcracking behavior transition in thermally treated granite under mode I loading. <i>Engineering Geology</i>. 282, 105992. [https://doi.org/10.1016/j.enggeo.2021.105992](https://doi.org/10.1016/j.enggeo.2021.105992)  
-\[3\] Wong L.N.Y., <b>Guo T.Y.\*</b>, Wu Z., & Xiao X. (2021). How do thermally induced microcracks alter microcracking mechanisms in granite? <i>Engineering Geology</i>. 292, 106268. [https://doi.org/10.1016/j.enggeo.2021.106268](https://doi.org/10.1016/j.enggeo.2021.106268)  
-\[4\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2020). Microcracking behavior of three granites under mode I loading: Insights from acoustic emission. <i>Engineering Geology</i>. 278, 105823. [https://doi.org/10.1016/j.enggeo.2020.105823](https://doi.org/10.1016/j.enggeo.2020.105823)    
-\[5\] Wong L.N.Y., & <b>Guo T.Y.\*</b> (2019). Microcracking behavior of two semi-circular bend specimens in mode I fracture toughness test of granite <i>Engineering Fracture Mechanics</i>. 221, 106565. [https://doi.org/10.1016/j.engfracmech.2019.106565](https://doi.org/10.1016/j.engfracmech.2019.106565)  
+\[2\] <b>Guo T.Y.</b>, & Zhao Q.\* (2022). Acoustic Emission Characteristics During the Microcracking Processes of Granite, Marble and Sandstone Under Mode I Loading. <i>Rock Mechanics and Rock Engineering</i>. 55, 5467-5489. [https://doi.org/10.1007/s00603-022-02937-1](https://doi.org/10.1007/s00603-022-02937-1)  
