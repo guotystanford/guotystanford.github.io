@@ -11,12 +11,12 @@ Picking P-wave arrivals of AE waveforms is the first and foremost step in analyz
 </p> 
 
 <img src="/images/AEPNET.jpg"/>  
-<h6 align="center">The architecture of AE-PNet.  
-</h6>
+<h4 align="center">The architecture of AE-PNet.  
+</h4>
 
 <img src="/images/Input & output_AEPNET.jpg"/>  
-<h6 align="center">The input (an AE waveform containing the P-wave arrival) and the output (the probability of P-wave arrival) of AE-PNet.  
-</h6>
+<h4 align="center">The input (an AE waveform containing the P-wave arrival) and the output (the probability of P-wave arrival) of AE-PNet.  
+</h4>
 
 ## Stanford Acoustic Emission Data set [(SAED)](https://purl.stanford.edu/mz374gr4108)
 <p align="justify">
@@ -39,8 +39,8 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 
 <img src="/images/Picking Platform_V1.jpg"/>  
 <img src="/images/Picking Platform_V2.jpg"/> 
-<h6 align="center">AE P-wave arrival picking platform incorporating the AE-PNet module  
-</h6>
+<h4 align="center">AE P-wave arrival picking platform incorporating the AE-PNet module  
+</h4>
 
 ## Reference:
 \[1\] <b>Guo T.Y.\*</b>, Vanorio T., $ Jihui D. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
