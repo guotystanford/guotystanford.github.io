@@ -36,7 +36,6 @@ Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ pr
 <h6 align="center">
 Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a SCB sandstone specimen.    
 </h6>
-<br>
 
 ## References:  
 \[1\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2021). Cracking mechanisms of a medium-grained granite under mixed-mode I-II loading illuminated by acoustic emission. <i>International Journal of Rock Mechanics and Mining Sciences</i>. 145, 104852. [https://doi.org/10.1016/j.ijrmms.2021.104852](https://doi.org/10.1016/j.ijrmms.2021.104852)  
