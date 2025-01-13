@@ -6,15 +6,13 @@ permalink: /research/Cracking_Microseismicity/
 ---
 ## The effects of loading mode:
 <p align="justify">
-I have developed a constitutive model to capture the anisotropic mechanical response of transversely isotropic rocks by extending the modified Cam-Clay model with an alternative stress state transformed with a rank-four projection tensor that contains the information of the spatial orientation of the bedding structures[1]. Using the proposed model, I conducted stress-point simulations of plane strain compression test on overconsolidated Tournemire shale, and the result is demonstrated in the figure below:  
+I have developed a constitutive model to capture the anisotropic mechanical response of transversely isotropic rocks by extending the modified Cam-Clay model with an alternative stress state transformed with a rank-four projection tensor that contains the information of the spatial orientation of the bedding structures [1]. Using the proposed model, I conducted stress-point simulations of plane strain compression test on overconsolidated Tournemire shale, and the result is demonstrated in the figure below:  
 </p>
 <img src="/images/Mixed-mode_density contour.jpg"/>  
-<h6 align="center">Stress-point simulation results of plane strain compression test on Tournemire shale. <br>
-Variations of (left) rock strength (right) failure plane orientation with bedding plane orientation.  
+<h6 align="center">Stress-point simulation results of plane strain compression test on Tournemire shale. <br>  
 </h6>
 <img src="/images/Mixed-mode_event type.jpg"/>  
-<h6 align="center">Stress-point simulation results of plane strain compression test on Tournemire shale. <br>
-Variations of (left) rock strength (right) failure plane orientation with bedding plane orientation.  
+<h6 align="center">Stress-point simulation results of plane strain compression test on Tournemire shale. <br> 
 </h6>
 
 
