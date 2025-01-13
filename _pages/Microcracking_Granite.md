@@ -49,7 +49,7 @@ One of my ongoing work is to cast the dual mechanism failure criterion into the 
 </p>
 
 <p align="justify">
-The ensuing figures demonstrate a benchmark test to validate the implementation of the phase-field model, where we tried to reproduce the response of Lyons Sandstone in uniaxial tension test. As one can see in the following figure, tensile crack tends to propagate along the bedding planes (represented by <i>d<sub>1</sub></i>) when the bedding plane orientation is mild, and to propagate through the rock matrix (represented by <i>d<sub>2</sub></i>) when the bedding plane orientation is steep in the specimen.  
+I investigated the effects of pre-cut notch shape (straight-through vs chevron) on the FPZ features in semi-circular bend (SCB) granite specimens under mode I or tensile loading. The SCB test is one of the suggested methods to measure the fracture toughness of rocks. Analysis of AE data reveals a relatively larger FPZ in specimens with a straight-through notch. This finding explains the discrepancy in the fracture toughness measured using SCB specimens with different notch shapes.  
 </p>
 
 <img src="/images/Notch shape.jpg"/>  
