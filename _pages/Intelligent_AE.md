@@ -22,7 +22,7 @@ The proposed framework involves a new set of governing equations for mass conser
 The figures below demonstrate the influence of elastoplasticity on the consolidation process in the domain. In elastic domain, the pore pressure build-up and the ground settlement is the least, while for normally consolidated medium with p<sub>c0</sub>=-1MPa, the material is the weakest and the domain undergoes largest pore pressure accumulation and ground settlement. For overconsolidated medium with p<sub>c0</sub>=-2MPa, the evolution of pore pressure and ground settlement lie in between the other two scenarios.  
 </p>
 
-<img src="/images/SP_2.jpg"/>  
+<img src="/images/Input & output_AEPNET.jpg"/>  
 <h6 align="center">Evolution of ground settlement and pore pressure.  
 </h6>
 
