@@ -41,7 +41,7 @@ I have developed a novel continuum poromechanical framework for shale considerin
 </p>
 <img src="/images/Picking Platform_V1.jpg"/>  
 <img src="/images/Picking Platform_V2.jpg"/> 
-<h6 align="center">Illustration of the double porosity concept.   
+<h6 align="center">AE P-wave arrival picking platform incorporating the AE-PNet module  
 </h6>
 <p align="justify">
 The figure above demonstrates the concept of double porosity, where the voids can be separated into two continuous porous network consists of pores with different length scales. In macropores made up of microcracks, we consider the fluid flow inside is anisotropic, with a preferred flow direction along the crack planes. In micropores, we assume the fluid flow is isotropic. With this proposed framework, I reproduced the 1-D consolidation process of Opalinus shale, and the setup of the problem as well as the loading protocol is demonstrated in the figure below:  
