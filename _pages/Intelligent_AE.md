@@ -13,7 +13,7 @@ The effective stress concept and the poromechanical framework pioneered by Terza
 The proposed framework involves a new set of governing equations for mass conservation of fluid and solid, and a new effective stress formulation that identifies distinct forms of effective stress for elastic response and plastic response respectively. Coefficients that emerge in the governing equations are evaluated naturally through the derivation, thus the proposed framework won’t require any additional constitutive law or assumption for parameter evaluation. For this work, I also developed a mixed finite element framework for its numerical implementation and conducted simulations of a consolidation problem with strip loading to reveal the unique hydromechanical response in anisotropic elastoplastic porous rocks, as demonstrated in the ensuing figures.   
 </p>
 
-<img src="/images/SP_1.PNG"/>  
+<img src="/images/AEPNET.jpg"/>  
 <h6 align="center">Setup of the consolidation problem in a transversely isotropic medium under a strip load.  
 </h6>
 

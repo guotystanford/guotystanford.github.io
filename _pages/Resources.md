@@ -28,4 +28,5 @@ I am sharing some useful resources such as online courses, seminars and websites
 
 ## Websites  
 * [ISRM Suggested Methods](https://isrm.net/isrm/page/show/1305)  
-* [Github Pages for academic personal websites](https://github.com/academicpages/academicpages.github.io)  
+* [Github Pages for academic personal websites](https://github.com/academicpages/academicpages.github.io)
+* [Stone for the oil and gas research industry](https://kocurekindustries.com/)  
