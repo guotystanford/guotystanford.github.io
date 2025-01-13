@@ -16,7 +16,7 @@ By analyzing the thin section of macrocracks induced in semi-circular bending (S
 
 ## Microcracking behavior transition in thermally treated granite  
 <p align="justify">
-We identified the microcracking behavior transition in thermally treated granite and proposed an extended conceptual model to describe the (fracture process zone) FPZ evolution prior to unstable fracture propagation in crystalline rocks [2]. For the crystalline rocks with relatively small numbers of preexisting microcracks, as the tensile stress applied to a macroscopic fracture increases, the FPZ does not significantly develop until the load reaches a relatively high level approaching the failure load. In contrast, for the granite with more pre-existing microcracks, the FPZ actively develops at the load level much lower than that in the former case. In addition, the duration of FPZ development is longer for the granite with more pre-existing microcracks. Since more microcracks are reactivated in the latter case, the FPZ is characterized by larger size and higher microcrack density at the moment when the macroscopic fracture extends.  
+We identified the microcracking behavior transition in thermally treated granite and proposed an extended conceptual model to describe the (fracture process zone) FPZ evolution prior to unstable fracture propagation in crystalline rocks [2]. For the crystalline rocks with relatively small numbers of pre-existing (thermal) microcracks, as the tensile stress applied to a macroscopic fracture increases, the FPZ does not significantly develop until the load reaches a relatively high level approaching the failure load. In contrast, for the granite with more pre-existing (thermal) microcracks, the FPZ actively develops at the load level much lower than that in the former case. In addition, the duration of FPZ development is longer for the granite with more pre-existing microcracks. Since more microcracks are reactivated in the latter case, the FPZ is characterized by larger size and higher microcrack density at the moment when the macroscopic crack initiates.  
 </p>  
 
 <img src="/images/Thermal-induced transition.jpg"/>  
@@ -24,8 +24,7 @@ We identified the microcracking behavior transition in thermally treated granite
 </h6>
 
 <p align="justify">
-The temporal evolution features of the event-type ratio are different between the specimens with fewer thermal microcracks and those with substantial thermal microcracks. For the former, the tensile
-event ratio rapidly increases to its peak, while the shear and mixed-mode event ratio decreases, which becomes a precursor before the macrocrack initiation, while this precursor becomes invisible for the
+The temporal evolution features of the event-type ratio are different between the specimens with fewer pre-existing thermal microcracks and those with substantial pre-existing thermal microcracks. For the former, the tensile event ratio rapidly increases to its peak, while the shear and mixed-mode event ratio decreases, which becomes a precursor preceding the initiation of macrocracks, while this precursor becomes invisible for the
 latter [3].  
 </p>
 
