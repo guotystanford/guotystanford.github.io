@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Student Advisor of Final Year Projects (FYPs) of Undergradutes at the University of Hong Kong:
-* 2016-2017, Lydia Tin Man Yip (Grade: B+) 
-* 2017-2018, Wing Ki Lam (Grade: B+), Jay Yu Hin Ng (Grade: B+)
-* 2018-2019, Benjamin Chung Yeung Yung (Grade: A+)  
+* 2016-2017, Lydia Tin Man Yip  
+* 2017-2018, Wing Ki Lam, Jay Yu Hin Ng
+* 2018-2019, Benjamin Chung Yeung Yung
   [Second runner-up prize in the Association of Geotechnical and Geoenvironmental Specialists (HK) FYP Competition 2019](https://www.earthsciences.hku.hk/news_and_events/news/72/?back=8fa435f675f288b6086d5b29f2647e42)
-* 2019-2020, Xinyu Xiao (Grade: A), Abraham Man Lok Siu (Grade: A-)  
+* 2019-2020, Xinyu Xiao, Abraham Man Lok Siu 
 Proposed research topics, developed experimental plans, taught experimental skills, organized regular meetings, edited and commented on FYP thesis and presentations 
 
 ## Teaching Assistant at the University of Hong Kong:  
