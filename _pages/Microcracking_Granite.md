@@ -11,7 +11,7 @@ By analyzing the thin section of macrocracks induced in semi-circular bending (S
 </p>
 
 <img src="/images/Microscopic view of tensile crack in granite.jpg"/>  
-<h6 align="center">Thin section images showing the tensile cracks in the SCB specimen (left) and the conceptual model of tensile cracks proposed in Morgan et al., (2013).  
+<h6 align="center">Thin section images showing the tensile cracks in the SCB specimen (left) and the conceptual model of tensile cracks proposed in Morgan et al., (2013) (right).  
 </h6> 
 
 ## Microcracking behavior transition in thermally treated granite  
