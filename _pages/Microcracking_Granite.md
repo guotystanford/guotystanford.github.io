@@ -7,7 +7,7 @@ permalink: /research/Microcracking_Granite/
 
 ## Cracking behavior of granite under tensile loading: insights from thin-section analysis 
 <p align="justify">
-By analyzing the thin section of macrocracks induced in semi-circular bending (SCB) tests, we demonstrated that <b>the tortuous tensile-induced cracks in granite predominantly propagate through grains rather than along grain boundaries (left) [1]</b>. This conclusion challenges the prevailing view in the field that tortuous tensile cracks propagate along grain boundary in granite (right), offering new insights into the cracking mechanisms of granite.   
+By analyzing the thin section of macrocracks induced in semi-circular bending (SCB) tests, we demonstrated that <b>the tortuous tensile-induced cracks in granite predominantly propagate through grains rather than along grain boundaries [1]</b>. This conclusion challenges the prevailing view in the field that tortuous tensile cracks propagate along grain boundary in granite, offering new insights into the cracking mechanisms of granite.   
 </p>
 
 <img src="/images/Microscopic view of tensile crack in granite.jpg"/>  
@@ -16,7 +16,7 @@ By analyzing the thin section of macrocracks induced in semi-circular bending (S
 
 ## Microcracking behavior transition in thermally treated granite  
 <p align="justify">
-We identified the microcracking behavior transition in thermally treated granite and proposed <b>an extended conceptual model to describe the (fracture process zone) FPZ evolution prior to unstable fracture propagation in crystalline rocks [2]</b>. For the crystalline rocks with relatively small numbers of pre-existing (thermal) microcracks, as the tensile stress applied to a macroscopic fracture increases, the FPZ does not significantly develop until the load reaches a relatively high level approaching the failure load. In contrast, for the granite with more pre-existing (thermal) microcracks, the FPZ actively develops at the load level much lower than that in the former case. In addition, the duration of FPZ development is longer for the granite with more pre-existing microcracks. Since more microcracks are reactivated in the latter case, the FPZ is characterized by larger size and higher microcrack density at the moment when the macroscopic crack initiates.  
+We identified the microcracking behavior transition in thermally treated granite and proposed <b>an extended conceptual model to describe the fracture process zone (FPZ) evolution prior to unstable fracture propagation in crystalline rocks [2]</b>. For the crystalline rocks with relatively small numbers of pre-existing (thermal) microcracks, as the tensile stress applied to a macroscopic fracture increases, the FPZ does not significantly develop until the load reaches a relatively high level approaching the failure load. In contrast, for the granite with more pre-existing (thermal) microcracks, the FPZ actively develops at the load level much lower than that in the former case. In addition, the duration of FPZ development is longer for the granite with more pre-existing microcracks. Since more microcracks are reactivated in the latter case, the FPZ is characterized by larger size and higher microcrack density at the moment when the macroscopic crack initiates.  
 </p>  
 
 <img src="/images/Thermal-induced transition.jpg"/>  
