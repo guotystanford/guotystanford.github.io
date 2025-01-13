@@ -12,7 +12,7 @@ author_profile: true
 
 ## [Microcracking Mechanisms of Granite](Microcracking_Granite)
 <div align="justify">
-A comprehensive study on the nucleation, growth, and interaction of microcracks (i.e. microcracking) and the associated fracture process zones (FPZs) of rocks is crucial for better understanding and predicting subsequent macrocracking processes. My doctoral project focused on the <b>microcracking mechanisms of granite</b> using a <b>multi-scale crack characterization method</b> integrating AE and microscopic observation techniques such as scanning electron microscopy and petrographic microscopy. Since granite is a common host rock in EGS geological disposal of nuclear waste, my research could contribute to managing the efficacy of EGS or the safety of geological disposal of nuclear waste.
+A comprehensive study on the nucleation, growth, and interaction of microcracks (i.e. microcracking) and the associated fracture process zones (FPZs) of rocks is crucial for better understanding and predicting subsequent macrocracking processes. My doctoral project focused on the <b>microcracking mechanisms of granite</b> using a <b>multi-scale crack characterization method integrating AE and microscopic observation techniques such as scanning electron microscopy and petrographic microscopy</b>. Since granite is a common host rock in EGS geological disposal of nuclear waste, my research could contribute to managing the efficacy of EGS or the safety of geological disposal of nuclear waste.
 </div>
 
 ## [Intelligent Acoustic Emission Monitoring](Intelligent_AE)
