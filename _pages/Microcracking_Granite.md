@@ -7,46 +7,51 @@ permalink: /research/Microcracking_Granite/
 
 ## Cracking behavior of granite under tensile loading: insights from thin-section analysis 
 <p align="justify">
-Tensile failure is a common failue mode in shale in engineering applications such as shale gas exploitation. Tensile for transversely isotropic rocks like shale is usually dependent on the bedding plane orientation in the material, and the Nova-Zaninetti criterion is commonly accepted as the tensile failure criterion with the best performance, which extends the Rankine criterion by constructing a bedding-orientation-dependent rock strength with a rank-two tensor to characterize the anisotropy in rock strength. Such a criterion can be fully calibrated with rock tensile strength along the bed-normal and bed-parallel directions, and the shape of the variation curve of rock tensile strength with bedding plane orientation is determined by the anisotropy ratio, defined as the ratio between rock strength along the bed-parallel direction and the bed-normal direction.  
+By analyzing the thin section of macrocracks induced in semi-circular bending (SCB) tests, we demonstrated that the tortuous tensile-induced cracks in granite predominantly propagate through grains rather than along grain boundaries(left)[1]. This conclusion challenges the prevailing view in the field that tortuous tensile cracks propagate along grain boundary in granite (right), offering new insights into the cracking mechanisms of granite.   
 </p>
 
 <img src="/images/Microscopic view of tensile crack in granite.jpg"/>  
-<h6 align="center">Thin section images showing the tensile cracks in the SCB specimen with straight-through (left) and chevron (right) notch.  
-</h6>
-
-<p align="justify">
-The figure above illustrates the variation of tensile strength with bedding plane orientation for several kinds of transversely isotropic rocks with an anisotropy ratio near 4, and the prediction generated with the Nova-Zaninetti criterion. From the figure we can conclude that the Nova-Zaninetti criterion has the following shortcomes:  
-</p>  
-
-* The shape of variation curve of rock tensile strength predicted with the Nova-Zaninetti criterion is determined with a given anisotropy ratio, but in reality there can be different forms of the variation curves;  
-* For rocks with weakly-cemented bedding planes such as the Midgley Grit Sandstone, there exists a transition in the strength variation curve distinguishing failure along bedding planes or through rock matrix, which can not be reproduced by the Nova-Zaninetti criterion;  
-* It has been revealed in literatures that the prediction of failure plane orientation with the Nova-Zaninetti can hardly be regarded as perfect. 
+<h6 align="center">Thin section images showing the tensile cracks in the SCB specimen (left) and the conceptual model of tensile cracks proposed in Morgan et al., (2013).  
+</h6> 
 
 ## Microcracking behavior transition in thermally treated granite  
 <p align="justify">
-Faced with the limitations of the existing tensile failure criteria for transversely isotropic rocks, we developed a novel two-mechanism tensile failure criterion that can overcome these issues[1]. For failure through anisotropic rock matrix, we also extended the Rankine criterion to reflect the impact of material anisotropy. Rather than finding a direct expression of the bedding-orientation-dependent rock strength, we instead extend the stress measure with an alternative stress transformed with a rank-four projection tensor. Failure criterion for anisotropic rock matrix developed in this manner has a more general application range than the Nova-Zaninetti criterion, as for a given anisotropy ratio, there can be various forms of the strength variation curve with bedding plane orientation.  
+We identified the microcracking behavior transition in thermally treated granite and proposed an extended conceptual model to describe the (fracture process zone) FPZ evolution prior to unstable fracture propagation in crystalline rocks [2]. For the crystalline rocks with relatively small numbers of preexisting microcracks, as the tensile stress applied to a macroscopic fracture increases, the FPZ does not significantly develop until the load reaches a relatively high level approaching the failure load. In contrast, for the granite with more pre-existing microcracks, the FPZ actively develops at the load level much lower than that in the former case. In addition, the duration of FPZ development is longer for the granite with more pre-existing microcracks. Since more microcracks are reactivated in the latter case, the FPZ is characterized by larger size and higher microcrack density at the moment when the macroscopic fracture extends.  
 </p>  
 
 <img src="/images/Thermal-induced transition.jpg"/>  
-<h6 align="center">extended conceptual model
-describing the FPZ evolution before unstable fracture propagation in crystalline rocks.  
+<h6 align="center">An extended conceptual model describing the FPZ evolution before unstable fracture propagation in crystalline rocks.  
 </h6>
 
 <p align="justify">
-For failure along the bedding planes, we treat it seperately and constructed the tensile criterion based on the normal component of stress on the bedding planes. We applied the proposed failure criterion and calibrated the model with the response of Lyons Sandstone. As one can conclude from the following figures, the proposed criterion can generate a better fit to experimental data for both the variation of tensile strength and failure plane orientation with bedding plane orientation.  
+The temporal evolution features of the event-type ratio are different between the specimens with fewer thermal microcracks and those with substantial thermal microcracks. For the former, the tensile
+event ratio rapidly increases to its peak, while the shear and mixed-mode event ratio decreases, which becomes a precursor before the macrocrack initiation, while this precursor becomes invisible for the
+latter [3].  
 </p>
 
 <img src="/images/Thermal_event rate.jpg"/>  
-<h6 align="center">The typical temporal changes of axial load and event-type ratios for SCB specimens after the (left) low-temperature (50 ◦C, 100 ◦C, 150 ◦C) and (right) high-temperature (200 ◦C, 400 ◦C).  
+<h6 align="center">The typical temporal changes of axial load and event-type ratios for straight-through notch SCB specimens after the (left) low-temperature (50 ◦C, 100 ◦C, 150 ◦C) and (right) high-temperature (200 ◦C, 400 ◦C).  
 </h6>
+
+<p align="justify">
+To explain the differences in the temporal evolution features of the event-type ratio, we conducted thin-section analysis on tensile cracks induced in the straight-through notch SCB specimens after thermal treatment at different temperatures thermal treatments. Given that the thermally induced pre-existing microcracks do not have a strong preferred orientation, the event type would vary with the inclination angles between the microcracks and the maximum tensile stress direction. Therefore, all three event types could be observed during the tests. For the new tensile fractures which generally develop coplanar with the pre-existing notch plane, the displacement of their walls is approximately normal to the tensile stress, which tends to mainly produce the tensile events. The competition between these two mechanisms accounts for the variations of event-type ratios during the microcracking process [3].  
+</p>
 
 <img src="/images/Thermal thin-section.jpg"/>  
-<h6 align="center">Thin-section images showing the typical microscopic features of tensile cracks induced in the SCB specimens after the (left) low-temperature (50 ◦C, 100 ◦C, 150 ◦C) and (right) high-temperature (200 ◦C, 400 ◦C).  
+<h6 align="center">Thin-section images showing the typical microscopic features of tensile cracks induced in the straigh-tthrough notchSCB specimens after the (left) low-temperature (50 ◦C, 100 ◦C, 150 ◦C) and (right) high-temperature (200 ◦C, 400 ◦C) thermal treatments.  
 </h6>
 
-## Fracture process zone of granite in mode I semi-circular bending (SCB) tests
+## Fracture process zone (FPZ) of granite in mode I SCB tests
 <p align="justify">
-I investigated the effects of pre-cut notch shape (straight-through vs chevron) on the FPZ features in semi-circular bend (SCB) granite specimens under mode I or tensile loading [5]. The SCB test is one of the suggested methods to measure the fracture toughness of rocks. Analysis of AE data reveals a relatively larger fracture process zone (FPZ) in specimens with a straight-through notch. This finding explains the discrepancy in the fracture toughness measured using SCB specimens with different notch shapes.  
+We investigated the effectsof mineralogy and texture on the microcracking behavior of granites under mode I loading. The three granites show distinct AE event spatial evolution features during the microcrack development period, which results in different AE event distributions. The AE event density contour shapes of the fully-developed fracture process zone are generally elliptical for the fine-grain granite. As the grain size of the studied granites increases, the contours become more irregularly-shaped. The medium-grain granite with the most pre-existing microcracks has the largest maximum AE event density.  
+</p>
+
+<img src="/images/Three granites.jpg"/>  
+<h6 align="center">Thin-section images (upper) and AE event density contour of fully-developed FPZ (lower) of straight-through notch SCB specimens with different grain sizes.  
+</h6>
+
+<p align="justify">
+We investigated the effects of pre-cut notch shape (straight-through vs chevron) on the FPZ features in semi-circular bend (SCB) granite specimens under mode I or tensile loading [5]. The SCB test is one of the suggested methods to measure the fracture toughness of rocks. Analysis of AE data reveals a relatively larger FPZ in specimens with a straight-through notch. This finding explains the discrepancy in the fracture toughness measured using SCB specimens with different notch shapes.  
 </p>
 
 <img src="/images/Notch shape.jpg"/>  
