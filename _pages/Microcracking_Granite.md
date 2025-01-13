@@ -7,7 +7,7 @@ permalink: /research/Microcracking_Granite/
 
 ## Cracking behavior of granite under tensile loading: insights from thin-section analysis 
 <p align="justify">
-By analyzing the thin section of macrocracks induced in semi-circular bending (SCB) tests, we demonstrated that the tortuous tensile-induced cracks in granite predominantly propagate through grains rather than along grain boundaries(left)[1]. This conclusion challenges the prevailing view in the field that tortuous tensile cracks propagate along grain boundary in granite (right), offering new insights into the cracking mechanisms of granite.   
+By analyzing the thin section of macrocracks induced in semi-circular bending (SCB) tests, we demonstrated that <b>the tortuous tensile-induced cracks in granite predominantly propagate through grains rather than along grain boundaries(left)[1]</b>. This conclusion challenges the prevailing view in the field that tortuous tensile cracks propagate along grain boundary in granite (right), offering new insights into the cracking mechanisms of granite.   
 </p>
 
 <img src="/images/Microscopic view of tensile crack in granite.jpg"/>  
