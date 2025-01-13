@@ -11,7 +11,7 @@ Tensile failure is a common failue mode in shale in engineering applications suc
 </p>
 
 <img src="/images/Microscopic view of tensile crack in granite.jpg"/>  
-<h6 align="center">Variation of tensile strength with bedding plane orientation with an anisotropy ratio near 4.  
+<h6 align="center">Thin section images showing the tensile cracks in the SCB specimen with straight-through (left) and chevron (right) notch.  
 </h6>
 
 <p align="justify">
@@ -28,7 +28,8 @@ Faced with the limitations of the existing tensile failure criteria for transver
 </p>  
 
 <img src="/images/Thermal-induced transition.jpg"/>  
-<h6 align="center">Variation of (left) tensile strength (right) failure plane orientation with bedding plane orientation with an anisotropy ratio equal to 4, given different shape parameter <span>&#611;</span>.  
+<h6 align="center">extended conceptual model
+describing the FPZ evolution before unstable fracture propagation in crystalline rocks.  
 </h6>
 
 <p align="justify">
@@ -36,24 +37,20 @@ For failure along the bedding planes, we treat it seperately and constructed the
 </p>
 
 <img src="/images/Thermal_event rate.jpg"/>  
-<h6 align="center">Variation of (left) tensile strength (right) failure plane orientation with bedding plane orientation for Lyons Sandstone.  
+<h6 align="center">The typical temporal changes of axial load and event-type ratios for SCB specimens after the (left) low-temperature (50 ◦C, 100 ◦C, 150 ◦C) and (right) high-temperature (200 ◦C, 400 ◦C).  
 </h6>
 
 <img src="/images/Thermal thin-section.jpg"/>  
-<h6 align="center">Variation of (left) tensile strength (right) failure plane orientation with bedding plane orientation for Lyons Sandstone.  
+<h6 align="center">Thin-section images showing the typical microscopic features of tensile cracks induced in the SCB specimens after the (left) low-temperature (50 ◦C, 100 ◦C, 150 ◦C) and (right) high-temperature (200 ◦C, 400 ◦C).  
 </h6>
 
 ## Fracture process zone of granite in mode I semi-circular bending (SCB) tests
 <p align="justify">
-One of my ongoing work is to cast the dual mechanism failure criterion into the phase-field fracture modeling framework and develop a computational tool for boundary-value problem simulations that involve tensile failure of transversely isotropic rocks[2]. By assigning each failure mechanism a distinct phase-field variable, we can describe failure through rock matrix or along weak bedding planes separately.  
-</p>
-
-<p align="justify">
-I investigated the effects of pre-cut notch shape (straight-through vs chevron) on the FPZ features in semi-circular bend (SCB) granite specimens under mode I or tensile loading. The SCB test is one of the suggested methods to measure the fracture toughness of rocks. Analysis of AE data reveals a relatively larger FPZ in specimens with a straight-through notch. This finding explains the discrepancy in the fracture toughness measured using SCB specimens with different notch shapes.  
+I investigated the effects of pre-cut notch shape (straight-through vs chevron) on the FPZ features in semi-circular bend (SCB) granite specimens under mode I or tensile loading [5]. The SCB test is one of the suggested methods to measure the fracture toughness of rocks. Analysis of AE data reveals a relatively larger fracture process zone (FPZ) in specimens with a straight-through notch. This finding explains the discrepancy in the fracture toughness measured using SCB specimens with different notch shapes.  
 </p>
 
 <img src="/images/Notch shape.jpg"/>  
-<h6 align="center">fracture patterns generated with phase-field fracture simulation schemes.  
+<h6 align="center">AE event scatter of the fully-developed FPZ of SCB specimen with straight-through (left) and chevron (right) notch.  
 </h6>
 
 ## References:
