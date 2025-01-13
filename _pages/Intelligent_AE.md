@@ -43,5 +43,5 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 </h4>
 
 ## Reference:
-\[1\] <b>Guo T.Y.\*</b>, Vanorio T., $ Jihui D. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
-\[2\] <b>Guo T.Y.\*</b>, Vanorio T., $ Jihui D. (2024). Stanford Acoustic Emission Data set. <i>Stanford Digital Repository</i> [https://purl.stanford.edu/mz374gr4108](https://purl.stanford.edu/mz374gr4108)  
+\[1\] <b>Guo T.Y.\*</b>, Vanorio T., & Jihui D. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
+\[2\] <b>Guo T.Y.\*</b>, Vanorio T., & Jihui D. (2024). Stanford Acoustic Emission Data set. <i>Stanford Digital Repository</i> [https://purl.stanford.edu/mz374gr4108](https://purl.stanford.edu/mz374gr4108)  
