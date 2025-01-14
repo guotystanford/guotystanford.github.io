@@ -4,7 +4,7 @@ title: "Resources"
 author_profile: true
 ---
 
-I am sharing some useful resources such as online courses, seminars and websites that may be useful for you study, career or personal development.
+I am sharing some useful resources such as online courses, seminars and websites that may be useful for your study, career or personal development.
 
 ## Online Seminars  
 * International Society for Rock Mechanics and Rock Engineering (ISRM)  
