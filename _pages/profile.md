@@ -26,7 +26,7 @@ author_profile: true
   Department of Earth and Planetary Sciences, Stanford University   
   Advisor: [Prof. Tiziana Vanorio](https://profiles.stanford.edu/tiziana-vanorio?releaseVersion=10.8.0)  
 
-* <b>Postdoctoral Fellow</b>, 2021/10-2022/05  
+* <b>Postdoctoral Fellow</b>, 2021/10-2022/05 （It's a promotion in HK :）  
   <b>Research Associate</b>, 2021/02-2021/09  
   Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (PolyU)  
 
