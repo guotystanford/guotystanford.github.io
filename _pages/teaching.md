@@ -16,12 +16,12 @@ author_profile: true
 Proposed research topics, developed experimental plans, taught experimental skills, organized regular meetings, edited and commented on FYP thesis and presentations 
 
 ## Teaching Assistant at the University of Hong Kong:  
-### Graduate-level
+### Graduate-level  
   * <b>[GEOS7015]: Rock Mechanics</b>, Fall 2016
   * <b>[GEOS8101]: Engineering Geology and Geotechnical Design</b>, Fall 2016
   * <b>[GEOS7012]: Site Investigation & Engineering Geological Techniques </b>, Spring 2021
   * <b>[GEOS7021]: Geological fieldwork I</b>, Spring 2020  
-### Undergraduate-level
+### Undergraduate-level  
   * <b>[EASC3413]: Engineering Geology</b>, Spring 2016, 2019; Fall 2018
   * <b>[EASC3414]: Soil & Rock Mechanics</b>, Spring 2016
   * <b>[EASC2402]: Field and Laboratory Methods </b>, Fall 2017
