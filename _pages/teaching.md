@@ -16,7 +16,6 @@ author_profile: true
 Proposed research topics, developed experimental plans, taught experimental skills, organized regular meetings, edited and commented on FYP thesis and presentations 
 
 ## Teaching Assistant at the University of Hong Kong:  
-
 ### Graduate-level
   * <b>[GEOS7015]: Rock Mechanics</b>, Fall 2016
   * <b>[GEOS8101]: Engineering Geology and Geotechnical Design</b>, Fall 2016
