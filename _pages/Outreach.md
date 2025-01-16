@@ -47,7 +47,7 @@ author_profile: true
 
 <img src="/images/Jiuzhaigou_1-2.jpg"/>
 
-<img src="/images/Jiuzhaigou_2-2.JPG"/>
+<img src="/images/Jiuzhaigou_2-2.jpg"/>
 
 <img src="/images/Monument Valley-2.jpg"/>
 
@@ -55,15 +55,15 @@ author_profile: true
 
 <img src="/images/Sunset Peak in HK_2-2.jpg"/>
 
-<img src="/images/Yadan (Dunhuang) Geological Park-2.JPG"/>
+<img src="/images/Yadan (Dunhuang) Geological Park-2.jpg"/>
 
 <img src="/images/Yosemite National Park_1-2.jpg"/>
 
 <img src="/images/Yosemite National Park_2-2.jpg"/>
 
-<img src="/images/Zhangye_1-2.JPG"/>
+<img src="/images/Zhangye_1-2.jpg"/>
 
-<img src="/images/Zhangye_2-2.JPG"/>
+<img src="/images/Zhangye_2-2.jpg"/>
 
 <img src="/images/Zion-2.jpg"/>
 
