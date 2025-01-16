@@ -41,17 +41,13 @@ author_profile: true
 
 <img src="/images/death valley_2.jpg"/>
 
-<img src="/images/death valley_3.jpg"/>
-
-<img src="/images/death valley_4.jpg"/>
-
 <img src="/images/South China Karst.jpg"/>
 
 <img src="/images/Jiuxiang Karst Caves.jpg"/>
 
 <img src="/images/Jiuzhaigou_1.jpg"/>
 
-<img src="/images/Jiuzhaigou_2.jpg"/>
+<img src="/images/Jiuzhaigou_2.JPG"/>
 
 <img src="/images/Monument Valley.jpg"/>
 
@@ -59,15 +55,15 @@ author_profile: true
 
 <img src="/images/Sunset Peak in HK_2.jpg"/>
 
-<img src="/images/Yadan (Dunhuang) Geological Park.jpg"/>
+<img src="/images/Yadan (Dunhuang) Geological Park.JPG"/>
 
 <img src="/images/Yosemite National Park_1.jpg"/>
 
 <img src="/images/Yosemite National Park_2.jpg"/>
 
-<img src="/images/Zhangye_1.jpg"/>
+<img src="/images/Zhangye_1.JPG"/>
 
-<img src="/images/Zhangye_2.jpg"/>
+<img src="/images/Zhangye_2.JPG"/>
 
 <img src="/images/Zion.jpg"/>
 
