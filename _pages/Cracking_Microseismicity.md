@@ -37,6 +37,23 @@ Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ pr
 Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a SCB sandstone specimen.    
 </h4>
 
+<img src="/images/SCB-G3.gif"/>  
+<h4 align="center">
+Spatial-temporal evolution of AE events in SCB granite specimens under mode I loading.    
+</h4>
+
+<img src="/images/SCB-M2.gif"/>  
+<h4 align="center">
+Spatial-temporal evolution of AE events in SCB marble specimens under mode I loading.    
+</h4>
+
+<img src="/images/SCB-S5.gif"/>  
+<h4 align="center">
+Spatial-temporal evolution of AE events in SCB sandstone specimens under mode I loading.    
+</h4>
+
+
+
 ## References:  
 \[1\] <b>Guo T.Y.</b>, & Wong L.N.Y.\* (2021). Cracking mechanisms of a medium-grained granite under mixed-mode I-II loading illuminated by acoustic emission. <i>International Journal of Rock Mechanics and Mining Sciences</i>. 145, 104852. [https://doi.org/10.1016/j.ijrmms.2021.104852](https://doi.org/10.1016/j.ijrmms.2021.104852)  
 \[2\] <b>Guo T.Y.</b>, & Zhao Q.\* (2022). Acoustic Emission Characteristics During the Microcracking Processes of Granite, Marble and Sandstone Under Mode I Loading. <i>Rock Mechanics and Rock Engineering</i>. 55, 5467-5489. [https://doi.org/10.1007/s00603-022-02937-1](https://doi.org/10.1007/s00603-022-02937-1)  
