@@ -20,6 +20,18 @@ We investigated the effects of loading condition on the cracking behavior of a m
 <p align="justify">
 Rocks are natural materials with diverse microstructures which control their mechanical behavior. This study investigated the effects of texture of three lithologies-granite marble, and sandstone-on their microcracking mechanisms. Results indicate that <b>rock texture and pre-existing microcracks are the primary factors controlling the microcracking mechanisms and the associated AE features [2].</b> This study highlights the importance of considering microscopic features when interpreting AE or micro-seismic data related to rock cracking.  
 </p>
+<img src="/images/SCB-G3.gif"/>  
+<h4 align="center">
+Spatial-temporal evolution of AE events in SCB granite specimens under mode I loading.    
+</h4>
+<img src="/images/SCB-M2.gif"/>  
+<h4 align="center">
+Spatial-temporal evolution of AE events in SCB marble specimens under mode I loading.    
+</h4>
+<img src="/images/SCB-S5.gif"/>  
+<h4 align="center">
+Spatial-temporal evolution of AE events in SCB sandstone specimens under mode I loading.    
+</h4>
 <img src="/images/Thin-section_analysis.jpg"/>  
 <h4 align="center">
 The location of thin-section samples in SCB specimens.  
@@ -36,22 +48,6 @@ Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ pr
 <h4 align="center">
 Microscopic view beside the macrocrack (left) and the AE event scatter of FPZ preceding the initiation of macrocracks (right) in a SCB sandstone specimen.    
 </h4>
-
-<img src="/images/SCB-G3.gif"/>  
-<h4 align="center">
-Spatial-temporal evolution of AE events in SCB granite specimens under mode I loading.    
-</h4>
-
-<img src="/images/SCB-M2.gif"/>  
-<h4 align="center">
-Spatial-temporal evolution of AE events in SCB marble specimens under mode I loading.    
-</h4>
-
-<img src="/images/SCB-S5.gif"/>  
-<h4 align="center">
-Spatial-temporal evolution of AE events in SCB sandstone specimens under mode I loading.    
-</h4>
-
 
 
 ## References:  
