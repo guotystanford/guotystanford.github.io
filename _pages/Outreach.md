@@ -19,9 +19,9 @@ author_profile: true
 
 <img src="/images/Arches National Park_1-2.jpg"/>
 
-<img src="/images/Arches National Park_3-2.jpg"/>
-
 <img src="/images/Arches National Park_4-2.jpg"/>
+
+<img src="/images/Arches National Park_3-2.jpg"/>
 
 <img src="/images/Arches National Park_2-2.jpg"/>
 
