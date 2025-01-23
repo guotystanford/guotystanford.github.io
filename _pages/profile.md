@@ -40,7 +40,7 @@ author_profile: true
   Bulletin of Engineering Geology and Environment  
   Acta Geotechnica  
   Journal of Rock Mechanics and Geotechnical Engineering  
-  Engineering Fracture Mechanics
+  Engineering Fracture Mechanics  
   Geothermics  
   Geophysical Journal International  
   Construction and Building Materials  
