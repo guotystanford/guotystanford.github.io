@@ -12,7 +12,7 @@ author_profile: true
 * 2017-2018, Wing Ki Lam, Jay Yu Hin Ng
 * 2018-2019, Benjamin Chung Yeung Yung
   [Second runner-up prize in the Association of Geotechnical and Geoenvironmental Specialists (HK) FYP Competition 2019](https://www.earthsciences.hku.hk/news_and_events/news/72/?back=8fa435f675f288b6086d5b29f2647e42)
-* 2019-2020, Xinyu Xiao, Abraham Man Lok Siu 
+* 2019-2020, Xinyu Xiao, Abraham Man Lok Siu  
 Proposed research topics, developed experimental plans, taught experimental skills, organized regular meetings, edited and commented on FYP thesis and presentations 
 
 ## Teaching Assistant at the University of Hong Kong:  

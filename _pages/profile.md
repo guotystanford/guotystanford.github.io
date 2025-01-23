@@ -33,13 +33,14 @@ author_profile: true
   Department of Earth Sciences, The University of Hong Kong  
 <br>
 
-## Academic services 
+## Academic services  
 * <b>Journal reviewer</b>  
   Rock Mechanics and Rock Engineering  
   International Journal of Rock Mechanics and Mining Sciences  
+  Bulletin of Engineering Geology and Environment  
   Acta Geotechnica  
   Journal of Rock Mechanics and Geotechnical Engineering  
-  Bulletin of Engineering Geology and Environment  
+  Engineering Fracture Mechanics
   Geothermics  
   Geophysical Journal International  
   Construction and Building Materials  
