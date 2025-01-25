@@ -30,3 +30,4 @@ I am sharing some useful resources such as online courses, seminars and websites
 * [ISRM Suggested Methods](https://isrm.net/isrm/page/show/1305)  
 * [Github Pages for academic personal websites](https://github.com/academicpages/academicpages.github.io)
 * [Stone for the oil and gas research industry](https://kocurekindustries.com/)  
+* [Stanford Rock Physics Virtual Laboratory](https://srpvl.stanford.edu/)  
