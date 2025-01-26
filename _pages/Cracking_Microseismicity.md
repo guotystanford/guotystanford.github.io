@@ -22,7 +22,7 @@ Rocks are natural materials with diverse microstructures which control their mec
 </p>
 <p>
     <img src="/images/SCB-G3_ADB.jpg" alt="Image 1" style="width: 30%;"> 
-    <img src="/images/SCB-G3.gif" alt="Image 2" style="width: 70%;">
+    <img src="/images/SCB-G3.gif" alt="Image 2" style="width:65%;">
 </p>
 <h4 align="center">
 Spatial-temporal evolution of AE events in SCB granite specimens under mode I loading.    
