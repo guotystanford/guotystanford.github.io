@@ -38,7 +38,7 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 </p> 
 
 <img src="/images/Picking Platform_V1.jpg"/>  
-s
+
 <img src="/images/Picking Platform_V2.jpg"/> 
 <h4 align="center">AE P-wave arrival picking platform incorporating the AE-PNet module  
 </h4>
