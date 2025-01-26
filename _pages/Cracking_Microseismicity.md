@@ -20,7 +20,10 @@ We investigated the effects of loading condition on the cracking behavior of a m
 <p align="justify">
 Rocks are natural materials with diverse microstructures which control their mechanical behavior. This study investigated the effects of texture of three lithologies-granite marble, and sandstone-on their microcracking mechanisms. Results indicate that <b>rock texture and pre-existing microcracks are the primary factors controlling the microcracking mechanisms and the associated AE features [2].</b> This study highlights the importance of considering microscopic features when interpreting AE or micro-seismic data related to rock cracking.  
 </p>
-<img src="/images/SCB-G3.gif"/>  
+<p>
+    <img src="/images/SCB-G3_ADB.jpg" alt="Image 1" style="width: 45%;"> 
+    <img src="/images/SCB-G3.gif" alt="Image 2" style="width: 45%;">
+</p>
 <h4 align="center">
 Spatial-temporal evolution of AE events in SCB granite specimens under mode I loading.    
 </h4>
