@@ -12,9 +12,9 @@ author_profile: true
 <img src="/images/Alviso Marina County Park-2.jpg"/>
 
 <div align="center">
-<b>Alviso Marina County Park, CA, USA</b>
+<b><a href= "https://parks.santaclaracounty.gov/locations/alviso-marina-county-park"> Marina County Park</a>, CA, USA</b>
 </div>
----
+---  
 <img src="/images/Antelope Canyon_1-2.jpg"/>
 
 <img src="/images/Antelope Canyon_2-2.jpg"/>
@@ -24,7 +24,7 @@ author_profile: true
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Antelope_Canyon">Upper Antelope Canyon</a>, AZ, USA</b>
 </div>
----
+---  
 
 <img src="/images/Arches National Park_1-2.jpg"/>
 
