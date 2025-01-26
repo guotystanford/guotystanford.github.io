@@ -22,7 +22,7 @@ author_profile: true
 <img src="/images/Antelope Canyon_3-2.jpg"/>
 
 <div align="center">
-<b><a href= "https://en.wikipedia.org/wiki/Antelope_Canyon">Upper Antelope Canyon, AZ, USA</b>
+<b><a href= "https://en.wikipedia.org/wiki/Antelope_Canyon">Upper Antelope Canyon</a>, AZ, USA</b>
 </div>
 ---
 
