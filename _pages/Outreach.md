@@ -21,6 +21,11 @@ author_profile: true
 
 <img src="/images/Antelope Canyon_3-2.jpg"/>
 
+<div align="center">
+<b>[Upper Antelope Canyon](https://en.wikipedia.org/wiki/Antelope_Canyon), AZ, USA</b>
+</div>
+---
+
 <img src="/images/Arches National Park_1-2.jpg"/>
 
 <img src="/images/Arches National Park_4-2.jpg"/>
