@@ -25,13 +25,19 @@ Rocks are natural materials with diverse microstructures which control their mec
     <img src="/images/SCB-G3.gif" alt="Image 2" style="width:65%;">
 </p>
 <h4 align="center">
-Spatial-temporal evolution of AE events in SCB granite specimens under mode I loading.    
+Spatial-temporal evolution of AE events (right) in SCB granite specimens (left) under mode I loading.    
 </h4>
-<img src="/images/SCB-M2.gif"/>  
+<p>
+    <img src="/images/SCB-M2_ADB.jpg" alt="Image 1" style="width: 30%;"> 
+    <img src="/images/SCB-M2.gif" alt="Image 2" style="width:65%;">
+</p> 
 <h4 align="center">
-Spatial-temporal evolution of AE events in SCB marble specimens under mode I loading.    
+Spatial-temporal evolution of AE events (right) in SCB marble specimens (left) under mode I loading.    
 </h4>
-<img src="/images/SCB-S5.gif"/>  
+<p>
+    <img src="/images/SCB-S5_ADB.jpg" alt="Image 1" style="width: 30%;"> 
+    <img src="/images/SCB-S5.gif" alt="Image 2" style="width:65%;">
+</p> 
 <h4 align="center">
 Spatial-temporal evolution of AE events in SCB sandstone specimens under mode I loading.    
 </h4>
