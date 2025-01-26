@@ -146,7 +146,3 @@ author_profile: true
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Zion_National_Park">Zion National Park</a>, UT, USA</b>
 </div>
----  
-
-
-
