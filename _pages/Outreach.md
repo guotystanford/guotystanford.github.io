@@ -11,10 +11,10 @@ author_profile: true
 
 <img src="/images/Alviso Marina County Park-2.jpg"/>
 
-<div align="justify">
+<div align="center">
 <b>Alviso Marina County Park, CA, USA</b>
 </div>
-
+---
 <img src="/images/Antelope Canyon_1-2.jpg"/>
 
 <img src="/images/Antelope Canyon_2-2.jpg"/>
