@@ -13,8 +13,8 @@ redirect_from:
 
 ### 2024  
   03/14, **New Mexico Institute of Mining and Technology**, Socorro, USA:  
-  * <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>
----
+  * <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>  
+
 ## Presentations on Postdoctoral Research  
 ### 2024
   11/15, **ARMA Future Leader Webinar Series** (Online)  
@@ -32,8 +32,7 @@ redirect_from:
 
 ### 2021
   08/12, **American Rock Mechanics Association (ARMA) University of Toronto Student Chapter Lecture Series** (Online)  
-  * <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>
----
+  * <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>  
 
 ## Presentations on Doctoral Research
 
