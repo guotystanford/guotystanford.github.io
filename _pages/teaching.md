@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Teaching experience at Stanford University:
+<img src="/images/Teaching@Stanford.jpg"/>
+<div align="center">
+<b> Tianyang is delivering an Acoustic Emission Workshop at the Rock Physics and Geomaterials Laboratory</b>
+</div> 
 
 ## Student Advisor of Final Year Projects (FYPs) of Undergradutes at the University of Hong Kong:
 * 2016-2017, Lydia Tin Man Yip  
