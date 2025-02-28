@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Job talks  
-
 ### 2024  
   03/14, **New Mexico Institute of Mining and Technology**, Socorro, USA:  
   * <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>  
@@ -19,7 +18,6 @@ redirect_from:
 ### 2024
   11/15, **ARMA Future Leader Webinar Series** (Online)  
   * <i>[The Effect of Microstructure on the Cracking Mechanisms and Acoustic Emission Features of Rocks](https://youtu.be/NJG1eFJU1qY)</i>  
-
 
 ### 2023
   02/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
@@ -35,7 +33,6 @@ redirect_from:
   * <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>  
 
 ## Presentations on Doctoral Research
-
 ### 2024
   12/06, **Stanford Center for Earth Resources Forecasting Weekly Seminar**, Hybrid  
 
@@ -45,7 +42,6 @@ redirect_from:
   11/16, **The 13th Asian Regional Conference (ARC13) of International Association for Engineering Geology and the Environment (IAEG)**, Online Theme Lecture
 
   10/07, **China Three Gorges University**, Yichang, PRC
-
 
 ### 2020
   12/01, [**China University of Mining and Technology**](https://gdue.cumt.edu.cn/info/1074/1184.htm), Xuzhou, PRC  
