@@ -35,12 +35,9 @@ redirect_from:
 ## Presentations on Doctoral Research
 ### 2024
   12/06, **Stanford Center for Earth Resources Forecasting Weekly Seminar**, Hybrid  
-
 ### 2021
   12/26, **Sun Yat-sen University**, Online  
-
-  11/16, **The 13th Asian Regional Conference (ARC13) of International Association for Engineering Geology and the Environment (IAEG)**, Online Theme Lecture
-
+  11/16, **The 13th Asian Regional Conference (ARC13) of International Association for Engineering Geology and the Environment (IAEG)**, Online Theme Lecture  
   10/07, **China Three Gorges University**, Yichang, PRC
 
 ### 2020
