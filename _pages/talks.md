@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Job talks  
-### 2024  
-  03/14, **New Mexico Institute of Mining and Technology**, Socorro, USA:  
-  * <i>Experimental Study on Rock Microcracking Mechanisms: Insights from Acoustic Emission and Thin-section Analysis</i>  
-
 ## Presentations on Postdoctoral Research  
 ### 2024
   11/15, **ARMA Future Leader Webinar Series** (Online)  

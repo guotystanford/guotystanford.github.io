@@ -34,7 +34,7 @@ author_profile: true
 <br>
 
 ## Academic services  
-* <b>Journal reviewer</b>  
+* <b>Reviewer for 34 Journals:</b>  
   Rock Mechanics and Rock Engineering  
   International Journal of Rock Mechanics and Mining Sciences  
   Bulletin of Engineering Geology and Environment  
@@ -45,6 +45,11 @@ author_profile: true
   Geophysical Journal International  
   Construction and Building Materials  
   International journal for numerical and analytical methods in geomechanics  
+  <i>Here, I have listed some of the journals. Please see more via my [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0001-7761-1721)<i/>
+
+
+
+
 
 * <b>Session chair</b>  
   59th US Rock Mechanics/Geomechanics Symposium 2024, Santa Fe, USA  
