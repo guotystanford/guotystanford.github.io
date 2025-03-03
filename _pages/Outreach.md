@@ -81,7 +81,7 @@ author_profile: true
 
 <img src="/images/grand canyon_3-2.jpg"/>
 
-<img src="/images/grand canyon_142.jpg"/>
+<img src="/images/grand canyon_4-2.jpg"/>
 
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park">Grand Canyon National Park</a>, AZ, USA</b>
