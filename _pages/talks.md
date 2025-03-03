@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Presentations on Postdoctoral Research  
+## Presentations on Postdoctoral Research
+---  
 ### 2024
   11/15, **ARMA Future Leader Webinar Series** (Online)  
   * <i>[The Effect of Microstructure on the Cracking Mechanisms and Acoustic Emission Features of Rocks](https://youtu.be/NJG1eFJU1qY)</i>  
@@ -26,6 +27,7 @@ redirect_from:
   * <i>Understanding the Microcracking Behavior of Granite from Acoustic Emission and Microscopic Observation</i>  
 
 ## Presentations on Doctoral Research
+---
 ### 2024
   12/06, **Stanford Center for Earth Resources Forecasting Weekly Seminar**, Hybrid  
 
