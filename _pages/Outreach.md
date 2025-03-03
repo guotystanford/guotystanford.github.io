@@ -73,7 +73,20 @@ author_profile: true
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Death_Valley">Death Valley</a>, CA, USA</b>
 </div>
----  
+---
+
+<img src="/images/grand canyon_1-2.jpg"/>
+
+<img src="/images/grand canyon_2-2.jpg"/>
+
+<img src="/images/grand canyon_3-2.jpg"/>
+
+<img src="/images/grand canyon_142.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park">Grand Canyon National Park</a>, AZ, USA</b>
+</div>
+---
 
 <img src="/images/South China Karst-2.jpg"/>
 
