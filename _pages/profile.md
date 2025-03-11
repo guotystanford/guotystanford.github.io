@@ -29,7 +29,7 @@ author_profile: true
   <b>Research Associate</b>, 2021/02-2021/09  
   Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (PolyU)  
 
-* <b>Teaching Assistant</b>, 2016/09-2021/09  
+* <b>Teaching Assistant</b>, 2016/09-2020/08  
   Department of Earth Sciences, The University of Hong Kong  
 <br>
 
@@ -46,9 +46,6 @@ author_profile: true
   Construction and Building Materials  
   International journal for numerical and analytical methods in geomechanics  
   <i>Here, I have listed some of the journals. Please see more via my [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0001-7761-1721)<i/>
-
-
-
 
 
 * <b>Session chair</b>  
