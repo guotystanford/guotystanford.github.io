@@ -76,15 +76,6 @@ author_profile: true
 </div>
 ---  
 
-<img src="/images/dapeng_1-2.jpg"/>
-
-<img src="/images/dapeng_2-2.jpg"/>
-
-<div align="center">
-<b>Yangmeikeng, Shenzhen, PRC</b>
-</div>
----  
-
 <img src="/images/death valley_1-2.jpg"/>
 
 <img src="/images/death valley_2-2.jpg"/>
@@ -105,7 +96,16 @@ author_profile: true
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park">Grand Canyon National Park</a>, AZ, USA</b>
 </div>
----
+---  
+
+<img src="/images/Zion-2.jpg"/>
+
+<img src="/images/Zion_2-2.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Zion_National_Park">Zion National Park</a>, UT, USA</b>
+</div>  
+---  
 
 <img src="/images/South China Karst-2.jpg"/>
 
@@ -198,13 +198,13 @@ author_profile: true
 </div>
 ---  
 
-<img src="/images/Zion-2.jpg"/>
+<img src="/images/dapeng_1-2.jpg"/>
 
-<img src="/images/Zion_2-2.jpg"/>
+<img src="/images/dapeng_2-2.jpg"/>
 
 <div align="center">
-<b><a href= "https://en.wikipedia.org/wiki/Zion_National_Park">Zion National Park</a>, UT, USA</b>
-</div>  
+<b>Yangmeikeng, Shenzhen, PRC</b>
+</div>
 ---  
 
 <img src="/images/Golden gate bridge-1.jpg"/>
