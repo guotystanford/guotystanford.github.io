@@ -18,7 +18,7 @@ author_profile: true
 
 <img src="/images/Big Sur_1-1.jpg"/>
 
-<img src="/images/ABig Sur_2-1.jpg"/>
+<img src="/images/Big Sur_2-1.jpg"/>
 
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Big_Sur"> Big Sur</a>, CA, USA</b>
@@ -164,9 +164,9 @@ author_profile: true
 
 <img src="/images/Hong Kong_1-1.jpg"/>
 
-<img src="/images/Hong Kong_1-2.jpg"/>
+<img src="/images/Hong Kong_2-2.jpg"/>
 
-<img src="/images/Hong Kong_1-3.jpg"/>
+<img src="/images/Hong Kong_3-3.jpg"/>
 
 <div align="center">
 <b>Hong Kong Island, Hong Kong, PRC</b>
@@ -229,7 +229,7 @@ author_profile: true
 
 <img src="/images/Stanford_4-1.jpg"/>
 
-<img src="/images/Stanford_5-1.jpg"/>
+<img src="/images/Stanford-5_1.jpg"/>
 
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>, UT, USA</b>
