@@ -18,12 +18,21 @@ author_profile: true
 
 <img src="/images/Big Sur_1-1.jpg"/>
 
-<img src="/images/ABig Sur_1-2.jpg"/>
+<img src="/images/ABig Sur_2-1.jpg"/>
 
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Big_Sur"> Big Sur</a>, CA, USA</b>
 </div>
 ---  
+
+<img src="/images/No.1 highway-14.jpg"/>
+
+<img src="/images/17 miles-12.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/California_State_Route_1"> California State Route 1</a>, CA, USA</b>
+</div>
+---
 
 <img src="/images/Antelope Canyon_1-2.jpg"/>
 
@@ -205,6 +214,13 @@ author_profile: true
 </div>  
 ---  
 
+<img src="/images/Palace of Fine Arts-1.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Palace_of_Fine_Arts">Palace of Fine Arts</a>, CA, USA</b>
+</div>  
+---  
+
 <img src="/images/Stanford_1-1.jpg"/>
 
 <img src="/images/Stanford_2-1.jpg"/>
@@ -218,3 +234,13 @@ author_profile: true
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>, UT, USA</b>
 </div>
+---  
+
+<img src="/images/Stanford Dish_1-1.jpg"/>
+
+<img src="/images/Stanford Dish_1-2.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Stanford_Dish">Stanford Dish</a>, CA, USA</b>
+</div>  
+---   
