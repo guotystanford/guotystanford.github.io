@@ -15,6 +15,16 @@ author_profile: true
 <b><a href= "https://parks.santaclaracounty.gov/locations/alviso-marina-county-park"> Marina County Park</a>, CA, USA</b>
 </div>
 ---  
+
+<img src="/images/Big Sur_1-1.jpg"/>
+
+<img src="/images/ABig Sur_1-2.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Big_Sur"> Big Sur</a>, CA, USA</b>
+</div>
+---  
+
 <img src="/images/Antelope Canyon_1-2.jpg"/>
 
 <img src="/images/Antelope Canyon_2-2.jpg"/>
@@ -102,6 +112,22 @@ author_profile: true
 </div>
 ---  
 
+<img src="/images/GTY_8657-1.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Three_Pagodas">Three Pagodas</a>, Dali, PRC</b>
+</div>
+---  
+
+<img src="/images/Lugu Lake_1-1.jpg"/>
+
+<img src="/images/Lugu Lake_2-1.jpg"/>
+
+<div align="center">
+<b><a href= "Lugu Lake">Lugu Lake</a>, Yunan, PRC</b>
+</div>
+---  
+
 <img src="/images/Jiuzhaigou_1-2.jpg"/>
 
 <img src="/images/Jiuzhaigou_2-2.jpg"/>
@@ -123,9 +149,20 @@ author_profile: true
 <img src="/images/Sunset Peak in HK_2-2.jpg"/>
 
 <div align="center">
-<b><a href= "https://en.wikipedia.org/wiki/Antelope_Canyon">Sunset Peak</a>, Hong Kong, PRC</b>
+<b><a href= "https://en.wikipedia.org/wiki/Sunset_Peak_(Hong_Kong)">Sunset Peak</a>, Hong Kong, PRC</b>
 </div>
----  
+---
+
+<img src="/images/Hong Kong_1-1.jpg"/>
+
+<img src="/images/Hong Kong_1-2.jpg"/>
+
+<img src="/images/Hong Kong_1-3.jpg"/>
+
+<div align="center">
+<b>Hong Kong Island, Hong Kong, PRC</b>
+</div>
+--- 
 
 <img src="/images/Yadan (Dunhuang) Geological Park-2.jpg"/>
 
@@ -158,4 +195,26 @@ author_profile: true
 
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Zion_National_Park">Zion National Park</a>, UT, USA</b>
+</div>  
+---  
+
+<img src="/images/Golden gate bridge-1.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Golden_Gate_Bridge">Golden Gate Bridge</a>, CA, USA</b>
+</div>  
+---  
+
+<img src="/images/Stanford_1-1.jpg"/>
+
+<img src="/images/Stanford_2-1.jpg"/>
+
+<img src="/images/Stanford_3-1.jpg"/>
+
+<img src="/images/Stanford_4-1.jpg"/>
+
+<img src="/images/Stanford_5-1.jpg"/>
+
+<div align="center">
+<b><a href= "https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>, UT, USA</b>
 </div>
