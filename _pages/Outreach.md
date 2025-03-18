@@ -238,8 +238,6 @@ author_profile: true
 
 <img src="/images/Stanford Dish_1-1.jpg"/>
 
-<img src="/images/Stanford Dish_1-2.jpg"/>
-
 <div align="center">
 <b><a href= "https://en.wikipedia.org/wiki/Stanford_Dish">Stanford Dish</a>, CA, USA</b>
 </div>  
