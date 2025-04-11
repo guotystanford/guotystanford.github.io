@@ -133,7 +133,7 @@ author_profile: true
 <img src="/images/Lugu Lake_2-1.jpg"/>
 
 <div align="center">
-<b><a href= "Lugu Lake">Lugu Lake</a>, Yunan, PRC</b>
+<b><a href= "https://en.wikipedia.org/wiki/Lugu_Lake">Lugu Lake</a>, Yunan, PRC</b>
 </div>
 ---  
 
