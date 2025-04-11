@@ -43,7 +43,7 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 <h4 align="center">AE P-wave arrival picking platform incorporating the AE-PNet module  
 </h4>
 
-<iframe width="300" src="https://www.youtube.com/watch?v=4AATCIqyOFU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" src="https://www.youtube.com/embed/4AATCIqyOFU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reference:
 \[1\] <b>Guo T.Y.\*</b>, Vanorio T., & Ding J. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
