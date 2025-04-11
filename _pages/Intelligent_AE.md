@@ -45,7 +45,8 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 
 <iframe width="300" src="https://www.youtube.com/embed/4AATCIqyOFU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![中文版](http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F4e3bc6d2b7311ded46d68323114b50b24abe0c92.jpg)](https://www.bilibili.com/video/BV1e2d3YiEu7/)
+[点此观看中文版视频（Bilibili）](https://www.bilibili.com/video/BV1e2d3YiEu7/)
+
 
 
 ## Reference:
