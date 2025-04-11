@@ -23,9 +23,9 @@ Picking P-wave arrivals of AE waveforms is the first and foremost step in analyz
 AI is transforming seismic data analysis, yet its application to lab-scale seismic counterparts, namely AE remains relatively underexplored. The primary challenge stems from the limited availability of labeled data—manually selected, picked, and weighted waveforms—within the AE community compared to the vast labeled datasets readily available in seismology. To this end, we created the Stanford Acoustic Emission Database (SAED) [2], which includes ~ 50,000 manually picked waveforms. To our knowledge, SAED is the largest open-labeled dataset in the AE field. Based on the SAED, we trained and tested AE-PNet, a deep-learning model designed to pick P-wave arrivals both accurately and efficiently.  
 </p>
 
-## AE P-wave arrival picking platform
+## AE waveform preprocessing platform
 <p align="justify">
-I have developed a AE P-wave arrival picking platform incorporating the AE-PNet module. This platform have the functions of:
+I have developed a AE waveform preprocessing platform incorporating the AE-PNet module. This platform have the functions of:
 </p>
 
 * Visulizing and checking AE waveforms;  
@@ -42,6 +42,8 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 <img src="/images/Picking Platform_V2.jpg"/> 
 <h4 align="center">AE P-wave arrival picking platform incorporating the AE-PNet module  
 </h4>
+
+<iframe width="300" src="https://www.youtube.com/watch?v=4AATCIqyOFU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reference:
 \[1\] <b>Guo T.Y.\*</b>, Vanorio T., & Ding J. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
