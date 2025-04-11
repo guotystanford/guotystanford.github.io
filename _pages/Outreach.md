@@ -72,7 +72,7 @@ author_profile: true
 <img src="/images/Capitol Reef_2-2.jpg"/>
 
 <div align="center">
-<b><a href= "hhttps://en.wikipedia.org/wiki/Capitol_Reef_National_Park">Capitol Reef National Park</a>, UT, USA</b>
+<b><a href= "https://en.wikipedia.org/wiki/Capitol_Reef_National_Park">Capitol Reef National Park</a>, UT, USA</b>
 </div>
 ---  
 
