@@ -45,6 +45,9 @@ This platform can facilitate creating labelled AE data for training deep-learnin
 
 <iframe width="300" src="https://www.youtube.com/embed/4AATCIqyOFU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![中文版](http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F4e3bc6d2b7311ded46d68323114b50b24abe0c92.jpg)](https://www.bilibili.com/video/BV1e2d3YiEu7/)
+
+
 ## Reference:
 \[1\] <b>Guo T.Y.\*</b>, Vanorio T., & Ding J. (2024). A Deep-learning P-wave Arrival Picker for Laboratory Acoustic Emissions: Model Training and its Performance. <i>Rock Mechanics and Rock Engineering</i>. 1-19. [https://doi.org/10.1007/s00603-024-04296-5](https://doi.org/10.1007/s00603-024-04296-5)  
 \[2\] <b>Guo T.Y.\*</b>, Vanorio T., & Ding J. (2024). Stanford Acoustic Emission Data set. <i>Stanford Digital Repository</i> [https://purl.stanford.edu/mz374gr4108](https://purl.stanford.edu/mz374gr4108)  
