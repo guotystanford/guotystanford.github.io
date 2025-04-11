@@ -13,7 +13,8 @@ redirect_from:
 ---  
 ### 2024
   11/15, **ARMA Future Leader Webinar Series** (Online)  
-  * <i>[The Effect of Microstructure on the Cracking Mechanisms and Acoustic Emission Features of Rocks](https://youtu.be/NJG1eFJU1qY)</i>  
+  * <i>The Effect of Microstructure on the Cracking Mechanisms and Acoustic Emission Features of Rocks</i>  
+<iframe width="300" src="https://www.youtube.com/embed/f2jj6-Wcdjk" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2023
   02/13, **Stanford Rock and Geomaterials Program Affiliates Meeting**, Stanford, USA  
