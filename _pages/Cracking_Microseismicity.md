@@ -12,7 +12,7 @@ We investigated the effects of loading condition on the cracking behavior of a m
 <h4 align="center">AE event density contour of FD-FPZs preceding the initiation of macrocracks of SCB specimens under model I (left) and mix-mode I-II loadings (right). <br>  
 </h4>
 <img src="/images/Mixed-mode_event type.jpg"/>  
-<h4> align="center">The typical temporal changes of axial load and event-type ratios of SCB specimens under model I (left) and mix-mode I-II loadings (right). <br> 
+<h4 align="center">The typical temporal changes of axial load and event-type ratios of SCB specimens under model I (left) and mix-mode I-II loadings (right). <br> 
 </h4>
 
 
