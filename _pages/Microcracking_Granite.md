@@ -41,7 +41,7 @@ To explain the differences in the temporal evolution features of the event-type 
 
 ## Fracture process zone (FPZ) of granite in mode I SCB tests
 <p align="justify">
-We investigated the effects of mineralogy and texture on the microcracking behavior of granites under mode I loading. The three granites show distinct AE event spatial evolution features during the microcrack development period, which results in different AE event distributions. This difference is attributed to the distince grain size and mineralogy of the three granites. The AE event density contour shapes of the fully-developed fracture process zone are generally elliptical for the fine-grain granite. <b>As the grain size of the studied granites increases, the contours become more irregularly-shaped.</b> <b>The medium-grain granite with the most pre-existing microcracks has the largest maximum AE event density. </b>  
+We investigated the effects of mineralogy and texture on the microcracking behavior of granites under mode I loading [4]. The studied three granites show distinct AE event spatial evolution features during the microcrack development period, which results in different AE event distributions. This difference is attributed to the distince grain size and mineralogy of the three granites. The AE event density contour shapes of the fully-developed fracture process zone are generally elliptical for the fine-grain granite. <b>As the grain size of the studied granites increases, the contours become more irregularly-shaped.</b> <b>The medium-grain granite with the most pre-existing microcracks has the largest maximum AE event density. </b>  
 </p>
 
 <img src="/images/Three granites.jpg"/>  
