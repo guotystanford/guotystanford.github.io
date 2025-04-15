@@ -232,7 +232,7 @@ author_profile: true
 <img src="/images/Stanford-5_1.jpg"/>
 
 <div align="center">
-<b><a href= "https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>, UT, USA</b>
+<b><a href= "https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>, CA, USA</b>
 </div>
 ---  
 
