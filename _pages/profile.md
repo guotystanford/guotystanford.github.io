@@ -58,6 +58,7 @@ author_profile: true
 <br>
 
 ## Honors and awards
+* <b>The American Rock Mechanics Association Future Leader, class of 2025
 * <b>The Excellent Reviewer Award 2021 of Journal of Rock Mechanics and Geotechnical Engineering</b>, 2022.
 * <b>PolyU Distinguished Postdoctoral Fellowship Scheme</b>, PolyU, 2021.
 * <b>Full Postgraduate Scholarship</b>, HKU, 2016.
