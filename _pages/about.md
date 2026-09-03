@@ -15,8 +15,6 @@ I earned my Ph.D. in rock mechanics under the mentorship of [Prof. Louis Wong](h
 
 I have extensive experience in **designing and conducting geomechanical experiments, developing AI-enabled data analysis tools, and translating laboratory observations into engineering insights** for **carbon storage, geothermal energy, and underground infrastructure**. My interdisciplinary background allows me to combine approaches from rock mechanics, geophysics, geology, and artificial intelligence to address scientific and engineering challenges related to the energy transition and climate change.
 
-I enjoy collaborating across disciplines to solve complex geotechnical challenges and am interested in opportunities in **geotechnical engineering, experimental geomechanics, and research scientist roles**.
-
 **Research Interests:** Rock Mechanics, Acoustic emission, AI4Rock Engineering, Carbon capture, utilization, and storage (CCUS)
 
 # Motivation and Vision
@@ -25,6 +23,13 @@ My motivation of doing research stems from a deep desire to **advance science** 
 In the future, I aim to leverage my experience and expertise to address scientific challenges in rock engineering that contribute to achieving **Net Zero**, such as **enhanced geothermal systems (EGS)** and **nuclear waste geological disposal**, which are closely related to utilizing non-carbon (e.g. geothermal and nuclear) energy, as well as **CO<sub>2</sub> geological storage**
 
 # News
+## 2026
+    - **09/01**:
+    Our new **collaborative paper**, [“Impact of Velocity Evolution on AE Event Location and Fracture Process Interpretation”](https://www.nature.com/articles/s41598-026-68757-3), has been published in *Scientific Reports*. Congratulations!
+
+    - **08/18**:
+    My new **first-author paper**, [“The Effects of CO₂–Rock Interaction on the Failure Mode of Clay-Rich Sandstone”](https://www.sciencedirect.com/science/article/pii/S1750583626001891), has been published in the *International Journal of Greenhouse Gas Control*. This paper marks my first publication in a new research direction focused on carbon capture and storage. Congratulations!
+
 ## 2025
   -**5/2**:
     A collaborative research on [The recurrence of geophysical manifestations at the Campi Flegrei caldera](https://www.science.org/doi/10.1126/sciadv.adt2067) has been published in Science Advances. Here is the [news](https://sustainability.stanford.edu/news/scientists-discover-key-taming-unrest-italys-campi-flegrei) on the Stanford Doerr School of Sustainability. This research has attracted significant attention and has been widely covered by media outlets across countries including [ScienceSprings](https://sciencesprings.wordpress.com/2025/05/06/from-the-doerr-school-of-sustainability-at-stanford-university-volcanology-geophysics-scientists-discover-key-to-taming-seismic-unrest-at-italys-campi-flegrei/), [EurekAlert](https://www.eurekalert.org/news-releases/1082266), [Phys.org](https://phys.org/news/2025-05-scientists-key-earthquake-italy-campi.html#google_vignette), [ScienceDaily](https://www.sciencedaily.com/releases/2025/05/250502182509.htm), [Smart Water Magazine](https://smartwatermagazine.com/news/stanford-university/scientists-find-earthquakes-italys-campi-flegrei-caused-pressure-geothermal), [Futuro Prossimo](https://en.futuroprossimo.it/2025/05/campi-flegrei-stanford-conferma-il-rischio-sismico-si-puo-gestire/), [Tiscali Notizie](https://notizie.tiscali.it/scienza/articoli/campi-flegrei-terremoti-acqua/). Congratulations!
