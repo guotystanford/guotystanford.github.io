@@ -24,10 +24,10 @@ In the future, I aim to leverage my experience and expertise to address scientif
 
 # News
 ## 2026
-    - **09/01**:
+  - **09/01**:
     Our new **collaborative paper**, [“Impact of Velocity Evolution on AE Event Location and Fracture Process Interpretation”](https://www.nature.com/articles/s41598-026-68757-3), has been published in *Scientific Reports*. Congratulations!
 
-    - **08/18**:
+  - **08/18**:
     My new **first-author paper**, [“The Effects of CO₂–Rock Interaction on the Failure Mode of Clay-Rich Sandstone”](https://www.sciencedirect.com/science/article/pii/S1750583626001891), has been published in the *International Journal of Greenhouse Gas Control*. This paper marks my first publication in a new research direction focused on carbon capture and storage. Congratulations!
 
 ## 2025
