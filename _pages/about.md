@@ -8,7 +8,15 @@ redirect_from:
 ---
 <br>
 # About me
-I am an **experimentalist** and **data scientist** specializing in rock mechanics and engineering geology. I earned my Ph.D. in rock mechanics under the mentorship of [Prof. Louis Wong](https://www.earthsciences.hku.hk/people/academic_staff/77/?back=af3a6f1ace1fc32210286eb66ab8ef53) from the [Department of Earth Sciences](https://www.earthsciences.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/) . I am a Postdoctoral Scholar at the [Rock Physics and Geomaterials Lab](https://rgl.stanford.edu/), working with [Prof. Tiziana Vanorio](https://profiles.stanford.edu/tiziana-vanorio?releaseVersion=10.8.0), at [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/). I have an interdisciplinary background and am proficient in combining methods from Rock Mechanics, Geophysics, Geology, and Artificial Intelligence (AI) to tackle scientific challenges in rock engineering relevant to energy transition and climate change.
+# About Me
+
+I am a **geomechanics researcher** specializing in **experimental rock mechanics, geotechnical engineering, and laboratory microseismic and acoustic emission (AE) monitoring**. My research integrates **laboratory mechanical testing, AE monitoring, X-ray CT imaging, and machine learning** to investigate rock deformation, fracture processes, and subsurface geomechanics.
+
+I earned my Ph.D. in rock mechanics under the mentorship of [Prof. Louis Wong](https://www.earthsciences.hku.hk/people/academic_staff/77/?back=af3a6f1ace1fc32210286eb66ab8ef53) in the [Department of Earth Sciences](https://www.earthsciences.hku.hk/) at [the University of Hong Kong](https://www.hku.hk/). I am currently a Postdoctoral Scholar in the [Rock Physics and Geomaterials Lab](https://rgl.stanford.edu/), working with [Prof. Tiziana Vanorio](https://profiles.stanford.edu/tiziana-vanorio?releaseVersion=10.8.0) at the [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu/).
+
+I have extensive experience in **designing and conducting geomechanical experiments, developing AI-enabled data analysis tools, and translating laboratory observations into engineering insights** for **carbon storage, geothermal energy, and underground infrastructure**. My interdisciplinary background allows me to combine approaches from rock mechanics, geophysics, geology, and artificial intelligence to address scientific and engineering challenges related to the energy transition and climate change.
+
+I enjoy collaborating across disciplines to solve complex geotechnical challenges and am interested in opportunities in **geotechnical engineering, experimental geomechanics, and research scientist roles**.
 
 **Research Interests:** Rock Mechanics, Acoustic emission, AI4Rock Engineering, Carbon capture, utilization, and storage (CCUS)
 
