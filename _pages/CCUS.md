@@ -2,7 +2,7 @@
 layout: archive
 title: "Microcracking Mechanisms of Granite"
 collection: research
-permalink: /research/Microcracking_Granite/
+permalink: /research/CCUS/
 ---
 
 ## Cracking behavior of granite under tensile loading: insights from thin-section analysis 
