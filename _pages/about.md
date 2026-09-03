@@ -47,6 +47,6 @@ In the future, I aim to leverage my experience and expertise to address scientif
   -**10/2**:
     My website is officially online
 
-Updated on May 5, 2025
+Updated on Sep. 2, 2026
 
 
