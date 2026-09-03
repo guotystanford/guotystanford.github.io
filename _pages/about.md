@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 <br>
-# About me
 # About Me
 
 I am a **geomechanics researcher** specializing in **experimental rock mechanics, geotechnical engineering, and laboratory microseismic and acoustic emission (AE) monitoring**. My research integrates **laboratory mechanical testing, AE monitoring, X-ray CT imaging, and machine learning** to investigate rock deformation, fracture processes, and subsurface geomechanics.
