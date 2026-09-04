@@ -12,8 +12,7 @@ redirect_from:
 ## Presentations on Postdoctoral Research
 ---
 ### 2025
-
-09/05, **American Rock Mechanics Association (ARMA) Induced Seismicity Webinar** (Online)
+  09/05, **American Rock Mechanics Association (ARMA) Induced Seismicity Webinar** (Online)
   *<i>A Deep-Learning P-Wave Arrival Picker for Laboratory Microseismicity and Its Role in Enhancing Event Localization</i>*
 <iframe
   width="560"
